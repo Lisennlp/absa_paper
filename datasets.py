@@ -28,8 +28,8 @@ def load_datasets_and_vocabs(args):
     train, test = get_dataset(args.dataset_name)
 
     # Our model takes unrolled data, currently we don't consider the MAMS cases(future experiments)
-    _, train_all_unrolled, _, _ = get_rolled_and_unrolled_data(train, args)
-    _, test_all_unrolled, _, _ = get_rolled_and_unrolled_data(test, args)
+    _, train_all_unrolled, _, _ = get_rolled_and_unrolled_data(train, args, 'train')
+    _, test_all_unrolled, _, _ = get_rolled_and_unrolled_data(test, args, 'test')
 
     logger.info('****** After unrolling ******')
     logger.info('Train set size: %s', len(train_all_unrolled))
@@ -262,7 +262,7 @@ def reshape_dependency_tree(as_start, as_end, dependencies, add_2hop=False, add_
     assert len(tokens) == len(dep_idx), 'length wrong'
     return dep_tag, dep_idx, dep_dir
 
-def get_rolled_and_unrolled_data(input_data, args):
+def get_rolled_and_unrolled_data(input_data, args, dtype):
     '''
     In input_data, each sentence could have multiple aspects with different sentiments.
     Our method treats each sentence with one aspect at a time, so even for
@@ -364,11 +364,14 @@ def get_rolled_and_unrolled_data(input_data, args):
             total_counter[e['aspect_sentiment'][i][1]] += 1
 
             # Unrolling
-            all_unrolled.append(
-                {'sentence': e['tokens'], 'tags': e['tags'], 'pos_class': pos_class, 'aspect': aspect, 'sentiment': sentiment,
+            data = {'sentence': e['tokens'], 'tags': e['tags'], 'pos_class': pos_class, 'aspect': aspect, 'sentiment': sentiment,
                     'predicted_dependencies': e['predicted_dependencies'], 'predicted_heads': e['predicted_heads'],
-                 'from': frm, 'to': to, 'dep_tag': dep_tag, 'dep_idx': dep_idx, 'dep_dir':dep_dir,'dependencies': e['dependencies']})
-
+                 'from': frm, 'to': to, 'dep_tag': dep_tag, 'dep_idx': dep_idx, 'dep_dir':dep_dir,'dependencies': e['dependencies']}
+            all_unrolled.append(data)
+            print(f'sentiment: {sentiment} dataset_name: {args.dataset_name} dtype: {dtype}')
+            if sentiment in [0, 2] and args.dataset_name == 'twitter' and dtype == 'train':
+                print(f'add {args.dataset_name}, sentiment: {sentiment}========')
+                all_unrolled.append(data)
 
         # All sentences with multiple aspects and sentiments rolled.
         all_rolled.append(

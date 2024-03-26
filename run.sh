@@ -14,4 +14,4 @@
 # python run.py  --gat_bert   --cuda_id 1 --embedding_type bert --output_dir data/output-gcn-laptop --dropout 0.3 --hidden_size 200 --learning_rate 5e-5  --glove_dir /nas2/lishengping/models/word2vec_glove/glove.840B.300d.txt  --dataset_name laptop --bert_model_dir /nas2/archived/qsj/bert-model/bert-base-uncased  --num_heads 7
 
  # R-GAT+BERT in twitter:   max f1: 0.7352 acc: 0.7486  paper  f1: 74.88  acc: 76.15 
-CUDA_VISIBLE_DEVICES=0 python run.py  --gat_bert   --cuda_id 0 --embedding_type bert --output_dir data/output-gcn-twitter --dropout 0.2 --hidden_size 200 --learning_rate 5e-5  --glove_dir /nas2/lishengping/models/word2vec_glove/glove.840B.300d.txt  --dataset_name twitter --bert_model_dir /nas2/archived/qsj/bert-model/bert-base-uncased
+CUDA_VISIBLE_DEVICES=2 python run.py  --gat_bert   --cuda_id 2 --embedding_type bert --output_dir data/output-gcn-twitter2 --dropout 0.2 --hidden_size 200 --learning_rate 5e-5  --glove_dir /nas2/lishengping/models/word2vec_glove/glove.840B.300d.txt  --dataset_name twitter --bert_model_dir /nas2/archived/qsj/bert-model/bert-base-uncased --num_heads 6

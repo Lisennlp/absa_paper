@@ -304,7 +304,7 @@ class Aspect_Bert_GAT(nn.Module):
 
         dep_out = [g(feature, dep_feature, fmask).unsqueeze(1) for g in self.gat_dep]  # (N, 1, D) * num_heads
         dep_out = torch.cat(dep_out, dim=1)  # (N, H, D)
-        dep_out = dep_out.mean(dim=1)  # (N, D)
+        dep_out = dep_out.mean(dim=1)  # (N, D) # 头平均
 
 
         feature_out = torch.cat([dep_out,  pool_out], dim=1)  # (N, D')

@@ -7,7 +7,7 @@ dataset = 'rest'
 result_dir = './'
 
 # for dataset in ['twitter', 'rest', 'laptop']:
-for dataset in ['rest']:
+for dataset in ['laptop']:
 
     path = f'data/output-gcn-{dataset}/eval_results.txt'
     result_path = os.path.join(result_dir, path)

@@ -13,9 +13,13 @@
 ## 数据处理
 ### 依存分析
 依存分析模型：https://s3-us-west-2.amazonaws.com/allennlp/models/biaffine-dependency-parser-ptb-2018.08.23.tar.gz
+
 下载后放到 models/ 中
+
 `python data_preprocess_semeval.py`
-`data_preprocess_twitter.py`
+
+`python data_preprocess_twitter.py`
+
 
 已经处理好的依存分析结果在：`./data/`
 

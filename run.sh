@@ -1,4 +1,5 @@
 
+# best train args
 #  # R-GAT+BERT in restaurant:  max f1:  80.12 acc: 86.43,  paper f1: 81.35 acc: 86.60  
 # CUDA_VISIBLE_DEVICES=0 python run.py  --gat_bert   --cuda_id 0 --embedding_type bert --output_dir data/output-gcn-rest-final4_b --dropout 0.3 --hidden_size 200 --learning_rate 5e-5  --glove_dir /nas2/lishengping/models/word2vec_glove/glove.840B.300d.txt  --dataset_name rest --bert_model_dir /nas2/archived/qsj/bert-model/bert-base-uncased --balanced_data
 
@@ -10,7 +11,7 @@
 # CUDA_VISIBLE_DEVICES=2 python run.py  --gat_bert   --cuda_id 3 --embedding_type bert --output_dir data/output-gcn-twitter4 --dropout 0.3 --hidden_size 200 --learning_rate 5e-5  --glove_dir /nas2/lishengping/models/word2vec_glove/glove.840B.300d.txt  --dataset_name twitter --bert_model_dir /nas2/archived/qsj/bert-model/bert-base-uncased --num_heads 7 --balanced_data
 
 
-
+# test train args
 # CUDA_VISIBLE_DEVICES=0 python run.py  --gat_bert   --cuda_id 0 --embedding_type bert --output_dir data/output-gcn-rest-final4_b --dropout 0.3 --hidden_size 200 --learning_rate 5e-5  --glove_dir /nas2/lishengping/models/word2vec_glove/glove.840B.300d.txt  --dataset_name rest --bert_model_dir /nas2/archived/qsj/bert-model/bert-base-uncased --balanced_data
 
  

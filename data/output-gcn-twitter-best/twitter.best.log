@@ -1,0 +1,1865 @@
+03/27/2024 11:07:05 - INFO - trainer -     Num examples = 692
+03/27/2024 11:07:05 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7168    0.6776    0.6966       183
+  positivate     0.6012    0.7647    0.6731       136
+     neutral     0.7803    0.7239    0.7510       373
+
+    accuracy                         0.7197       692
+   macro avg     0.6994    0.7221    0.7069       692
+weighted avg     0.7283    0.7197    0.7213       692
+
+03/27/2024 11:07:06 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:07:06 - INFO - trainer -     eval loss: 1.5558508092706853
+03/27/2024 11:07:06 - INFO - trainer -     acc = 0.7196531791907514
+03/27/2024 11:07:06 - INFO - trainer -     f1 = 0.7069371624991021
+Epoch:  27%|████████████████████████▌                                                                   | 8/30 [05:37<15:37, 42.62s/it]
+03/27/2024 11:07:13 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:07:13 - INFO - trainer -     Num examples = 692
+03/27/2024 11:07:13 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6763    0.7006    0.6882       167
+  positivate     0.6185    0.7133    0.6625       150
+     neutral     0.7861    0.7253    0.7545       375
+
+    accuracy                         0.7168       692
+   macro avg     0.6936    0.7131    0.7018       692
+weighted avg     0.7233    0.7168    0.7186       692
+
+03/27/2024 11:07:14 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:07:14 - INFO - trainer -     eval loss: 1.6886528080159968
+03/27/2024 11:07:14 - INFO - trainer -     acc = 0.7167630057803468
+03/27/2024 11:07:14 - INFO - trainer -     f1 = 0.7017605407006952
+03/27/2024 11:07:22 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:07:22 - INFO - trainer -     Num examples = 692
+03/27/2024 11:07:22 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6416    0.7255    0.6810       153
+  positivate     0.6532    0.7244    0.6869       156
+     neutral     0.8006    0.7232    0.7599       383
+
+    accuracy                         0.7240       692
+   macro avg     0.6985    0.7244    0.7093       692
+weighted avg     0.7322    0.7240    0.7260       692
+
+03/27/2024 11:07:23 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:07:23 - INFO - trainer -     eval loss: 1.670176462693648
+03/27/2024 11:07:23 - INFO - trainer -     acc = 0.7239884393063584
+03/27/2024 11:07:23 - INFO - trainer -     f1 = 0.7092856055309785
+03/27/2024 11:07:31 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:07:31 - INFO - trainer -     Num examples = 692
+03/27/2024 11:07:31 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7110    0.7321    0.7214       168
+  positivate     0.7168    0.6359    0.6739       195
+     neutral     0.7081    0.7447    0.7259       329
+
+    accuracy                         0.7110       692
+   macro avg     0.7119    0.7042    0.7071       692
+weighted avg     0.7112    0.7110    0.7102       692
+
+03/27/2024 11:07:32 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:07:32 - INFO - trainer -     eval loss: 1.6718912395563992
+03/27/2024 11:07:32 - INFO - trainer -     acc = 0.7109826589595376
+03/27/2024 11:07:32 - INFO - trainer -     f1 = 0.7070821980125394
+03/27/2024 11:07:40 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:07:40 - INFO - trainer -     Num examples = 692
+03/27/2024 11:07:40 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7688    0.6650    0.7131       200
+  positivate     0.6879    0.6041    0.6432       197
+     neutral     0.6590    0.7729    0.7114       295
+
+    accuracy                         0.6936       692
+   macro avg     0.7052    0.6806    0.6893       692
+weighted avg     0.6989    0.6936    0.6925       692
+
+03/27/2024 11:07:40 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:07:40 - INFO - trainer -     eval loss: 1.8528714884411206
+03/27/2024 11:07:40 - INFO - trainer -     acc = 0.6936416184971098
+03/27/2024 11:07:40 - INFO - trainer -     f1 = 0.6892561426679951
+Epoch:  30%|███████████████████████████▌                                                                | 9/30 [06:18<14:48, 42.33s/it]
+03/27/2024 11:07:48 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:07:48 - INFO - trainer -     Num examples = 692
+03/27/2024 11:07:48 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6069    0.7343    0.6646       143
+  positivate     0.7919    0.5615    0.6571       244
+     neutral     0.6445    0.7311    0.6851       305
+
+    accuracy                         0.6720       692
+   macro avg     0.6811    0.6756    0.6689       692
+weighted avg     0.6887    0.6720    0.6710       692
+
+03/27/2024 11:07:49 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:07:49 - INFO - trainer -     eval loss: 1.9719347628680142
+03/27/2024 11:07:49 - INFO - trainer -     acc = 0.6719653179190751
+03/27/2024 11:07:49 - INFO - trainer -     f1 = 0.6689103829810211
+03/27/2024 11:07:57 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:07:57 - INFO - trainer -     Num examples = 692
+03/27/2024 11:07:57 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6358    0.7006    0.6667       157
+  positivate     0.6358    0.6875    0.6607       160
+     neutral     0.7659    0.7067    0.7351       375
+
+    accuracy                         0.7009       692
+   macro avg     0.6792    0.6983    0.6875       692
+weighted avg     0.7063    0.7009    0.7024       692
+
+03/27/2024 11:07:58 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:07:58 - INFO - trainer -     eval loss: 1.9804563305594705
+03/27/2024 11:07:58 - INFO - trainer -     acc = 0.7008670520231214
+03/27/2024 11:07:58 - INFO - trainer -     f1 = 0.6874724932977361
+03/27/2024 11:08:06 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:08:06 - INFO - trainer -     Num examples = 692
+03/27/2024 11:08:06 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7457    0.6355    0.6862       203
+  positivate     0.5260    0.7712    0.6254       118
+     neutral     0.7717    0.7197    0.7448       371
+
+    accuracy                         0.7038       692
+   macro avg     0.6811    0.7088    0.6855       692
+weighted avg     0.7222    0.7038    0.7072       692
+
+03/27/2024 11:08:07 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:08:07 - INFO - trainer -     eval loss: 1.734789791432294
+03/27/2024 11:08:07 - INFO - trainer -     acc = 0.703757225433526
+03/27/2024 11:08:07 - INFO - trainer -     f1 = 0.6854565468358499
+03/27/2024 11:08:14 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:08:14 - INFO - trainer -     Num examples = 692
+03/27/2024 11:08:14 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6590    0.6994    0.6786       163
+  positivate     0.6416    0.6568    0.6491       169
+     neutral     0.7486    0.7194    0.7337       360
+
+    accuracy                         0.6994       692
+   macro avg     0.6830    0.6919    0.6871       692
+weighted avg     0.7013    0.6994    0.7001       692
+
+03/27/2024 11:08:15 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:08:15 - INFO - trainer -     eval loss: 1.598555169322274
+03/27/2024 11:08:15 - INFO - trainer -     acc = 0.6994219653179191
+03/27/2024 11:08:15 - INFO - trainer -     f1 = 0.6871350945825375
+03/27/2024 11:08:23 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:08:23 - INFO - trainer -     Num examples = 692
+03/27/2024 11:08:23 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7803    0.6279    0.6959       215
+  positivate     0.5665    0.7538    0.6469       130
+     neutral     0.7428    0.7406    0.7417       347
+
+    accuracy                         0.7081       692
+   macro avg     0.6965    0.7075    0.6948       692
+weighted avg     0.7213    0.7081    0.7096       692
+
+03/27/2024 11:08:24 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:08:24 - INFO - trainer -     eval loss: 1.7599230787970803
+03/27/2024 11:08:24 - INFO - trainer -     acc = 0.708092485549133
+03/27/2024 11:08:24 - INFO - trainer -     f1 = 0.6948145722770608
+Epoch:  33%|██████████████████████████████▎                                                            | 10/30 [07:01<14:09, 42.47s/it]
+03/27/2024 11:08:32 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:08:32 - INFO - trainer -     Num examples = 692
+03/27/2024 11:08:32 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6647    0.7143    0.6886       161
+  positivate     0.6358    0.6875    0.6607       160
+     neutral     0.7688    0.7170    0.7420       371
+
+    accuracy                         0.7095       692
+   macro avg     0.6898    0.7063    0.6971       692
+weighted avg     0.7138    0.7095    0.7108       692
+
+03/27/2024 11:08:33 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:08:33 - INFO - trainer -     eval loss: 1.8475379781289534
+03/27/2024 11:08:33 - INFO - trainer -     acc = 0.7095375722543352
+03/27/2024 11:08:33 - INFO - trainer -     f1 = 0.6970879631165753
+03/27/2024 11:08:41 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:08:41 - INFO - trainer -     Num examples = 692
+03/27/2024 11:08:41 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7168    0.6813    0.6986       182
+  positivate     0.7283    0.6000    0.6580       210
+     neutral     0.6532    0.7533    0.6997       300
+
+    accuracy                         0.6879       692
+   macro avg     0.6994    0.6782    0.6854       692
+weighted avg     0.6927    0.6879    0.6867       692
+
+03/27/2024 11:08:42 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:08:42 - INFO - trainer -     eval loss: 2.0245260216973047
+03/27/2024 11:08:42 - INFO - trainer -     acc = 0.6878612716763006
+03/27/2024 11:08:42 - INFO - trainer -     f1 = 0.6854151327492501
+03/27/2024 11:08:49 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:08:49 - INFO - trainer -     Num examples = 692
+03/27/2024 11:08:49 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.5838    0.7652    0.6623       132
+  positivate     0.5780    0.7874    0.6667       127
+     neutral     0.8613    0.6882    0.7651       433
+
+    accuracy                         0.7211       692
+   macro avg     0.6744    0.7469    0.6980       692
+weighted avg     0.7564    0.7211    0.7274       692
+
+03/27/2024 11:08:50 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:08:50 - INFO - trainer -     eval loss: 1.9105768312107434
+03/27/2024 11:08:50 - INFO - trainer -     acc = 0.7210982658959537
+03/27/2024 11:08:50 - INFO - trainer -     f1 = 0.6980150629806557
+03/27/2024 11:08:58 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:08:58 - INFO - trainer -     Num examples = 692
+03/27/2024 11:08:58 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6590    0.6552    0.6571       174
+  positivate     0.6590    0.6552    0.6571       174
+     neutral     0.7110    0.7151    0.7130       344
+
+    accuracy                         0.6850       692
+   macro avg     0.6763    0.6752    0.6757       692
+weighted avg     0.6848    0.6850    0.6849       692
+
+03/27/2024 11:08:59 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:08:59 - INFO - trainer -     eval loss: 1.9618055712093005
+03/27/2024 11:08:59 - INFO - trainer -     acc = 0.684971098265896
+03/27/2024 11:08:59 - INFO - trainer -     f1 = 0.6757215052416154
+03/27/2024 11:09:07 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:09:07 - INFO - trainer -     Num examples = 692
+03/27/2024 11:09:07 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.8382    0.6170    0.7108       235
+  positivate     0.6012    0.7172    0.6541       145
+     neutral     0.6879    0.7628    0.7234       312
+
+    accuracy                         0.7038       692
+   macro avg     0.7091    0.6990    0.6961       692
+weighted avg     0.7207    0.7038    0.7046       692
+
+03/27/2024 11:09:08 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:09:08 - INFO - trainer -     eval loss: 1.9043241685087031
+03/27/2024 11:09:08 - INFO - trainer -     acc = 0.703757225433526
+03/27/2024 11:09:08 - INFO - trainer -     f1 = 0.6960922064530348
+Epoch:  37%|█████████████████████████████████▎                                                         | 11/30 [07:44<13:29, 42.59s/it]
+03/27/2024 11:09:16 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:09:16 - INFO - trainer -     Num examples = 692
+03/27/2024 11:09:16 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7283    0.7241    0.7262       174
+  positivate     0.6532    0.6726    0.6628       168
+     neutral     0.7630    0.7543    0.7586       350
+
+    accuracy                         0.7269       692
+   macro avg     0.7148    0.7170    0.7159       692
+weighted avg     0.7276    0.7269    0.7272       692
+
+03/27/2024 11:09:17 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:09:17 - INFO - trainer -     eval loss: 1.8196466781876304
+03/27/2024 11:09:17 - INFO - trainer -     acc = 0.726878612716763
+03/27/2024 11:09:17 - INFO - trainer -     f1 = 0.7158673572524377
+03/27/2024 11:09:24 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:09:24 - INFO - trainer -     Num examples = 692
+03/27/2024 11:09:24 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.8035    0.6588    0.7240       211
+  positivate     0.7110    0.6119    0.6578       201
+     neutral     0.6445    0.7964    0.7125       280
+
+    accuracy                         0.7009       692
+   macro avg     0.7197    0.6890    0.6981       692
+weighted avg     0.7123    0.7009    0.7001       692
+
+03/27/2024 11:09:25 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:09:25 - INFO - trainer -     eval loss: 2.057595743374391
+03/27/2024 11:09:25 - INFO - trainer -     acc = 0.7008670520231214
+03/27/2024 11:09:25 - INFO - trainer -     f1 = 0.6980574693087614
+03/27/2024 11:09:33 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:09:33 - INFO - trainer -     Num examples = 692
+03/27/2024 11:09:33 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7341    0.7257    0.7299       175
+  positivate     0.6821    0.6211    0.6501       190
+     neutral     0.7110    0.7523    0.7311       327
+
+    accuracy                         0.7095       692
+   macro avg     0.7091    0.6997    0.7037       692
+weighted avg     0.7089    0.7095    0.7085       692
+
+03/27/2024 11:09:34 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:09:34 - INFO - trainer -     eval loss: 1.9055635007944973
+03/27/2024 11:09:34 - INFO - trainer -     acc = 0.7095375722543352
+03/27/2024 11:09:34 - INFO - trainer -     f1 = 0.7036925920766116
+03/27/2024 11:09:42 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:09:42 - INFO - trainer -     Num examples = 692
+03/27/2024 11:09:42 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7110    0.7151    0.7130       172
+  positivate     0.6821    0.6629    0.6724       178
+     neutral     0.7457    0.7544    0.7500       342
+
+    accuracy                         0.7211       692
+   macro avg     0.7129    0.7108    0.7118       692
+weighted avg     0.7207    0.7211    0.7208       692
+
+03/27/2024 11:09:43 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:09:43 - INFO - trainer -     eval loss: 1.8076207691972905
+03/27/2024 11:09:43 - INFO - trainer -     acc = 0.7210982658959537
+03/27/2024 11:09:43 - INFO - trainer -     f1 = 0.7118027168751806
+03/27/2024 11:09:51 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:09:51 - INFO - trainer -     Num examples = 692
+03/27/2024 11:09:51 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6705    0.7436    0.7052       156
+  positivate     0.6416    0.7208    0.6789       154
+     neutral     0.8092    0.7330    0.7692       382
+
+    accuracy                         0.7327       692
+   macro avg     0.7071    0.7325    0.7178       692
+weighted avg     0.7407    0.7327    0.7347       692
+
+03/27/2024 11:09:52 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:09:52 - INFO - trainer -     eval loss: 1.753628291866996
+03/27/2024 11:09:52 - INFO - trainer -     acc = 0.7326589595375722
+03/27/2024 11:09:52 - INFO - trainer -     f1 = 0.7177656750172855
+Epoch:  40%|████████████████████████████████████▍                                                      | 12/30 [08:27<12:47, 42.62s/it]
+03/27/2024 11:09:59 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:09:59 - INFO - trainer -     Num examples = 692
+03/27/2024 11:09:59 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6821    0.7421    0.7108       159
+  positivate     0.7977    0.5498    0.6509       251
+     neutral     0.6329    0.7766    0.6975       282
+
+    accuracy                         0.6864       692
+   macro avg     0.7042    0.6895    0.6864       692
+weighted avg     0.7040    0.6864    0.6837       692
+
+03/27/2024 11:10:00 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:10:00 - INFO - trainer -     eval loss: 1.735353496941653
+03/27/2024 11:10:00 - INFO - trainer -     acc = 0.6864161849710982
+03/27/2024 11:10:00 - INFO - trainer -     f1 = 0.6864129996732512
+03/27/2024 11:10:08 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:10:08 - INFO - trainer -     Num examples = 692
+03/27/2024 11:10:08 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7803    0.6818    0.7278       198
+  positivate     0.7225    0.6188    0.6667       202
+     neutral     0.6676    0.7911    0.7241       292
+
+    accuracy                         0.7095       692
+   macro avg     0.7235    0.6972    0.7062       692
+weighted avg     0.7159    0.7095    0.7084       692
+
+03/27/2024 11:10:09 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:10:09 - INFO - trainer -     eval loss: 1.8070120215415955
+03/27/2024 11:10:09 - INFO - trainer -     acc = 0.7095375722543352
+03/27/2024 11:10:09 - INFO - trainer -     f1 = 0.7061891336452168
+03/27/2024 11:10:17 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:10:17 - INFO - trainer -     Num examples = 692
+03/27/2024 11:10:17 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6012    0.7761    0.6775       134
+  positivate     0.6185    0.7698    0.6859       139
+     neutral     0.8468    0.6993    0.7660       419
+
+    accuracy                         0.7283       692
+   macro avg     0.6888    0.7484    0.7098       692
+weighted avg     0.7534    0.7283    0.7328       692
+
+03/27/2024 11:10:18 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:10:18 - INFO - trainer -     eval loss: 1.697194148193706
+03/27/2024 11:10:18 - INFO - trainer -     acc = 0.7283236994219653
+03/27/2024 11:10:18 - INFO - trainer -     f1 = 0.7098116459200958
+03/27/2024 11:10:25 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:10:25 - INFO - trainer -     Num examples = 692
+03/27/2024 11:10:25 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7110    0.7500    0.7300       164
+  positivate     0.6532    0.7107    0.6807       159
+     neutral     0.8006    0.7507    0.7748       369
+
+    accuracy                         0.7413       692
+   macro avg     0.7216    0.7371    0.7285       692
+weighted avg     0.7455    0.7413    0.7426       692
+
+03/27/2024 11:10:26 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:10:26 - INFO - trainer -     eval loss: 1.7221310761841861
+03/27/2024 11:10:26 - INFO - trainer -     acc = 0.7413294797687862
+03/27/2024 11:10:26 - INFO - trainer -     f1 = 0.7285061309336452
+03/27/2024 11:10:34 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:10:34 - INFO - trainer -     Num examples = 692
+03/27/2024 11:10:34 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7630    0.7097    0.7354       186
+  positivate     0.6994    0.7202    0.7097       168
+     neutral     0.7775    0.7959    0.7865       338
+
+    accuracy                         0.7543       692
+   macro avg     0.7466    0.7419    0.7439       692
+weighted avg     0.7546    0.7543    0.7541       692
+
+03/27/2024 11:10:35 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:10:35 - INFO - trainer -     eval loss: 1.699096070094542
+03/27/2024 11:10:35 - INFO - trainer -     acc = 0.7543352601156069
+03/27/2024 11:10:35 - INFO - trainer -     f1 = 0.7438677238418077
+Epoch:  43%|███████████████████████████████████████▍                                                   | 13/30 [09:09<12:03, 42.57s/it]
+03/27/2024 11:10:43 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:10:43 - INFO - trainer -     Num examples = 692
+03/27/2024 11:10:43 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7919    0.6587    0.7192       208
+  positivate     0.6012    0.7429    0.6645       140
+     neutral     0.7572    0.7616    0.7594       344
+
+    accuracy                         0.7269       692
+   macro avg     0.7168    0.7210    0.7144       692
+weighted avg     0.7361    0.7269    0.7281       692
+
+03/27/2024 11:10:44 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:10:44 - INFO - trainer -     eval loss: 1.9377082017335026
+03/27/2024 11:10:44 - INFO - trainer -     acc = 0.726878612716763
+03/27/2024 11:10:44 - INFO - trainer -     f1 = 0.7143723786853355
+03/27/2024 11:10:52 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:10:52 - INFO - trainer -     Num examples = 692
+03/27/2024 11:10:52 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6474    0.7619    0.7000       147
+  positivate     0.6358    0.6962    0.6647       158
+     neutral     0.8035    0.7183    0.7585       387
+
+    accuracy                         0.7225       692
+   macro avg     0.6956    0.7255    0.7077       692
+weighted avg     0.7320    0.7225    0.7247       692
+
+03/27/2024 11:10:53 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:10:53 - INFO - trainer -     eval loss: 2.1141564818945797
+03/27/2024 11:10:53 - INFO - trainer -     acc = 0.7225433526011561
+03/27/2024 11:10:53 - INFO - trainer -     f1 = 0.7077263903257317
+03/27/2024 11:11:02 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:11:02 - INFO - trainer -     Num examples = 692
+03/27/2024 11:11:02 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7630    0.6567    0.7059       201
+  positivate     0.6994    0.6335    0.6648       191
+     neutral     0.6676    0.7700    0.7152       300
+
+    accuracy                         0.6994       692
+   macro avg     0.7100    0.6867    0.6953       692
+weighted avg     0.7041    0.6994    0.6986       692
+
+03/27/2024 11:11:03 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:11:03 - INFO - trainer -     eval loss: 2.05020517652685
+03/27/2024 11:11:03 - INFO - trainer -     acc = 0.6994219653179191
+03/27/2024 11:11:03 - INFO - trainer -     f1 = 0.6952959321380373
+03/27/2024 11:11:11 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:11:11 - INFO - trainer -     Num examples = 692
+03/27/2024 11:11:11 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6763    0.7048    0.6903       166
+  positivate     0.6647    0.7325    0.6970       157
+     neutral     0.7977    0.7480    0.7720       369
+
+    accuracy                         0.7341       692
+   macro avg     0.7129    0.7284    0.7198       692
+weighted avg     0.7384    0.7341    0.7354       692
+
+03/27/2024 11:11:12 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:11:12 - INFO - trainer -     eval loss: 1.9843190529129722
+03/27/2024 11:11:12 - INFO - trainer -     acc = 0.7341040462427746
+03/27/2024 11:11:12 - INFO - trainer -     f1 = 0.7197543852411109
+03/27/2024 11:11:19 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:11:19 - INFO - trainer -     Num examples = 692
+03/27/2024 11:11:19 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7514    0.6500    0.6971       200
+  positivate     0.5954    0.7305    0.6561       141
+     neutral     0.7572    0.7464    0.7518       351
+
+    accuracy                         0.7153       692
+   macro avg     0.7013    0.7090    0.7016       692
+weighted avg     0.7226    0.7153    0.7165       692
+
+03/27/2024 11:11:20 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:11:20 - INFO - trainer -     eval loss: 2.002795549956235
+03/27/2024 11:11:20 - INFO - trainer -     acc = 0.7153179190751445
+03/27/2024 11:11:20 - INFO - trainer -     f1 = 0.7016317646795862
+Epoch:  47%|██████████████████████████████████████████▍                                                | 14/30 [09:54<11:30, 43.18s/it]
+03/27/2024 11:11:28 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:11:28 - INFO - trainer -     Num examples = 692
+03/27/2024 11:11:28 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7803    0.6368    0.7013       212
+  positivate     0.6127    0.6839    0.6463       155
+     neutral     0.7197    0.7662    0.7422       325
+
+    accuracy                         0.7081       692
+   macro avg     0.7042    0.6956    0.6966       692
+weighted avg     0.7143    0.7081    0.7082       692
+
+03/27/2024 11:11:29 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:11:29 - INFO - trainer -     eval loss: 1.9919245026328347
+03/27/2024 11:11:29 - INFO - trainer -     acc = 0.708092485549133
+03/27/2024 11:11:29 - INFO - trainer -     f1 = 0.6966053405477636
+03/27/2024 11:11:37 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:11:37 - INFO - trainer -     Num examples = 692
+03/27/2024 11:11:37 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7688    0.6617    0.7112       201
+  positivate     0.6474    0.7044    0.6747       159
+     neutral     0.7341    0.7651    0.7493       332
+
+    accuracy                         0.7211       692
+   macro avg     0.7168    0.7104    0.7117       692
+weighted avg     0.7243    0.7211    0.7211       692
+
+03/27/2024 11:11:38 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:11:38 - INFO - trainer -     eval loss: 1.9378875385631213
+03/27/2024 11:11:38 - INFO - trainer -     acc = 0.7210982658959537
+03/27/2024 11:11:38 - INFO - trainer -     f1 = 0.7117304261926477
+03/27/2024 11:11:45 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:11:45 - INFO - trainer -     Num examples = 692
+03/27/2024 11:11:45 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7572    0.6823    0.7178       192
+  positivate     0.5607    0.7462    0.6403       130
+     neutral     0.7977    0.7459    0.7709       370
+
+    accuracy                         0.7283       692
+   macro avg     0.7052    0.7248    0.7097       692
+weighted avg     0.7419    0.7283    0.7317       692
+
+03/27/2024 11:11:46 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:11:46 - INFO - trainer -     eval loss: 2.0628337778828363
+03/27/2024 11:11:46 - INFO - trainer -     acc = 0.7283236994219653
+03/27/2024 11:11:46 - INFO - trainer -     f1 = 0.7096739887503712
+03/27/2024 11:11:54 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:11:54 - INFO - trainer -     Num examples = 692
+03/27/2024 11:11:54 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7630    0.7097    0.7354       186
+  positivate     0.6821    0.6743    0.6782       175
+     neutral     0.7370    0.7704    0.7533       331
+
+    accuracy                         0.7298       692
+   macro avg     0.7274    0.7181    0.7223       692
+weighted avg     0.7301    0.7298    0.7295       692
+
+03/27/2024 11:11:55 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:11:55 - INFO - trainer -     eval loss: 1.850184760310433
+03/27/2024 11:11:55 - INFO - trainer -     acc = 0.7297687861271677
+03/27/2024 11:11:55 - INFO - trainer -     f1 = 0.7222868166919928
+03/27/2024 11:12:03 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:12:03 - INFO - trainer -     Num examples = 692
+03/27/2024 11:12:03 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6994    0.7246    0.7118       167
+  positivate     0.6763    0.7091    0.6923       165
+     neutral     0.7890    0.7583    0.7734       360
+
+    accuracy                         0.7384       692
+   macro avg     0.7216    0.7307    0.7258       692
+weighted avg     0.7405    0.7384    0.7392       692
+
+03/27/2024 11:12:04 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:12:04 - INFO - trainer -     eval loss: 1.9700434776869686
+03/27/2024 11:12:04 - INFO - trainer -     acc = 0.7384393063583815
+03/27/2024 11:12:04 - INFO - trainer -     f1 = 0.7258145010019698
+Epoch:  50%|█████████████████████████████████████████████▌                                             | 15/30 [10:36<10:44, 42.94s/it]
+03/27/2024 11:12:12 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:12:12 - INFO - trainer -     Num examples = 692
+03/27/2024 11:12:12 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7052    0.7262    0.7155       168
+  positivate     0.6705    0.6517    0.6610       178
+     neutral     0.7514    0.7514    0.7514       346
+
+    accuracy                         0.7197       692
+   macro avg     0.7091    0.7098    0.7093       692
+weighted avg     0.7194    0.7197    0.7195       692
+
+03/27/2024 11:12:13 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:12:13 - INFO - trainer -     eval loss: 2.131265797398307
+03/27/2024 11:12:13 - INFO - trainer -     acc = 0.7196531791907514
+03/27/2024 11:12:13 - INFO - trainer -     f1 = 0.7093187565559994
+03/27/2024 11:12:20 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:12:20 - INFO - trainer -     Num examples = 692
+03/27/2024 11:12:20 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7457    0.6684    0.7049       193
+  positivate     0.6994    0.6050    0.6488       200
+     neutral     0.6705    0.7759    0.7194       299
+
+    accuracy                         0.6965       692
+   macro avg     0.7052    0.6831    0.6910       692
+weighted avg     0.6998    0.6965    0.6949       692
+
+03/27/2024 11:12:21 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:12:21 - INFO - trainer -     eval loss: 1.876536718823693
+03/27/2024 11:12:21 - INFO - trainer -     acc = 0.6965317919075145
+03/27/2024 11:12:21 - INFO - trainer -     f1 = 0.691030481143924
+03/27/2024 11:12:29 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:12:29 - INFO - trainer -     Num examples = 692
+03/27/2024 11:12:29 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.8208    0.6017    0.6944       236
+  positivate     0.6358    0.6667    0.6509       165
+     neutral     0.6618    0.7869    0.7190       291
+
+    accuracy                         0.6951       692
+   macro avg     0.7062    0.6851    0.6881       692
+weighted avg     0.7099    0.6951    0.6944       692
+
+03/27/2024 11:12:30 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:12:30 - INFO - trainer -     eval loss: 2.22413629564372
+03/27/2024 11:12:30 - INFO - trainer -     acc = 0.6950867052023122
+03/27/2024 11:12:30 - INFO - trainer -     f1 = 0.6880864641685728
+03/27/2024 11:12:38 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:12:38 - INFO - trainer -     Num examples = 692
+03/27/2024 11:12:38 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6936    0.7186    0.7059       167
+  positivate     0.6994    0.6612    0.6798       183
+     neutral     0.7428    0.7515    0.7471       342
+
+    accuracy                         0.7197       692
+   macro avg     0.7119    0.7104    0.7109       692
+weighted avg     0.7195    0.7197    0.7193       692
+
+03/27/2024 11:12:39 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:12:39 - INFO - trainer -     eval loss: 2.0388090935620395
+03/27/2024 11:12:39 - INFO - trainer -     acc = 0.7196531791907514
+03/27/2024 11:12:39 - INFO - trainer -     f1 = 0.7109168856986224
+03/27/2024 11:12:46 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:12:46 - INFO - trainer -     Num examples = 692
+03/27/2024 11:12:46 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7283    0.6667    0.6961       189
+  positivate     0.7514    0.6047    0.6701       215
+     neutral     0.6532    0.7847    0.7129       288
+
+    accuracy                         0.6965       692
+   macro avg     0.7110    0.6853    0.6931       692
+weighted avg     0.7042    0.6965    0.6950       692
+
+03/27/2024 11:12:47 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:12:47 - INFO - trainer -     eval loss: 2.0000610676678745
+03/27/2024 11:12:47 - INFO - trainer -     acc = 0.6965317919075145
+03/27/2024 11:12:47 - INFO - trainer -     f1 = 0.6930564811372686
+Epoch:  53%|████████████████████████████████████████████████▌                                          | 16/30 [11:19<10:00, 42.89s/it]
+03/27/2024 11:12:55 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:12:55 - INFO - trainer -     Num examples = 692
+03/27/2024 11:12:55 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6012    0.7429    0.6645       140
+  positivate     0.5434    0.7402    0.6267       127
+     neutral     0.8353    0.6800    0.7497       425
+
+    accuracy                         0.7038       692
+   macro avg     0.6599    0.7210    0.6803       692
+weighted avg     0.7343    0.7038    0.7099       692
+
+03/27/2024 11:12:56 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:12:56 - INFO - trainer -     eval loss: 2.0024089488116177
+03/27/2024 11:12:56 - INFO - trainer -     acc = 0.703757225433526
+03/27/2024 11:12:56 - INFO - trainer -     f1 = 0.6802930512218065
+03/27/2024 11:13:04 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:13:04 - INFO - trainer -     Num examples = 692
+03/27/2024 11:13:04 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7630    0.6408    0.6966       206
+  positivate     0.6879    0.6467    0.6667       184
+     neutral     0.6879    0.7881    0.7346       302
+
+    accuracy                         0.7066       692
+   macro avg     0.7129    0.6919    0.6993       692
+weighted avg     0.7102    0.7066    0.7052       692
+
+03/27/2024 11:13:05 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:13:05 - INFO - trainer -     eval loss: 2.1929907636208967
+03/27/2024 11:13:05 - INFO - trainer -     acc = 0.7066473988439307
+03/27/2024 11:13:05 - INFO - trainer -     f1 = 0.6992681629151872
+03/27/2024 11:13:13 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:13:13 - INFO - trainer -     Num examples = 692
+03/27/2024 11:13:13 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6936    0.6857    0.6897       175
+  positivate     0.6590    0.7081    0.6826       161
+     neutral     0.7688    0.7472    0.7578       356
+
+    accuracy                         0.7225       692
+   macro avg     0.7071    0.7137    0.7100       692
+weighted avg     0.7242    0.7225    0.7231       692
+
+03/27/2024 11:13:14 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:13:14 - INFO - trainer -     eval loss: 2.0896212946284902
+03/27/2024 11:13:14 - INFO - trainer -     acc = 0.7225433526011561
+03/27/2024 11:13:14 - INFO - trainer -     f1 = 0.7100415535958243
+03/27/2024 11:13:22 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:13:22 - INFO - trainer -     Num examples = 692
+03/27/2024 11:13:22 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6936    0.6742    0.6838       178
+  positivate     0.7399    0.5740    0.6465       223
+     neutral     0.6445    0.7663    0.7002       291
+
+    accuracy                         0.6806       692
+   macro avg     0.6927    0.6715    0.6768       692
+weighted avg     0.6879    0.6806    0.6786       692
+
+03/27/2024 11:13:23 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:13:23 - INFO - trainer -     eval loss: 2.2066441611810164
+03/27/2024 11:13:23 - INFO - trainer -     acc = 0.680635838150289
+03/27/2024 11:13:23 - INFO - trainer -     f1 = 0.6767941053655339
+Epoch:  57%|███████████████████████████████████████████████████▌                                       | 17/30 [12:01<09:13, 42.59s/it]
+03/27/2024 11:13:30 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:13:30 - INFO - trainer -     Num examples = 692
+03/27/2024 11:13:30 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6532    0.7019    0.6766       161
+  positivate     0.5318    0.7541    0.6237       122
+     neutral     0.8439    0.7139    0.7735       409
+
+    accuracy                         0.7182       692
+   macro avg     0.6763    0.7233    0.6913       692
+weighted avg     0.7445    0.7182    0.7246       692
+
+03/27/2024 11:13:31 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:13:31 - INFO - trainer -     eval loss: 2.1559704704718157
+03/27/2024 11:13:31 - INFO - trainer -     acc = 0.7182080924855492
+03/27/2024 11:13:31 - INFO - trainer -     f1 = 0.6912951513069943
+03/27/2024 11:13:39 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:13:39 - INFO - trainer -     Num examples = 692
+03/27/2024 11:13:39 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7168    0.6776    0.6966       183
+  positivate     0.6821    0.6782    0.6801       174
+     neutral     0.7514    0.7761    0.7636       335
+
+    accuracy                         0.7254       692
+   macro avg     0.7168    0.7106    0.7134       692
+weighted avg     0.7248    0.7254    0.7249       692
+
+03/27/2024 11:13:40 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:13:40 - INFO - trainer -     eval loss: 2.0559951066970825
+03/27/2024 11:13:40 - INFO - trainer -     acc = 0.7254335260115607
+03/27/2024 11:13:40 - INFO - trainer -     f1 = 0.7134424844948334
+03/27/2024 11:13:48 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:13:48 - INFO - trainer -     Num examples = 692
+03/27/2024 11:13:48 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6416    0.7303    0.6831       152
+  positivate     0.7168    0.6231    0.6667       199
+     neutral     0.7312    0.7419    0.7365       341
+
+    accuracy                         0.7052       692
+   macro avg     0.6965    0.6984    0.6954       692
+weighted avg     0.7074    0.7052    0.7047       692
+
+03/27/2024 11:13:49 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:13:49 - INFO - trainer -     eval loss: 2.1207834590565073
+03/27/2024 11:13:49 - INFO - trainer -     acc = 0.7052023121387283
+03/27/2024 11:13:49 - INFO - trainer -     f1 = 0.6954264173478147
+03/27/2024 11:13:57 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:13:57 - INFO - trainer -     Num examples = 692
+03/27/2024 11:13:57 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6821    0.7195    0.7003       164
+  positivate     0.7341    0.6225    0.6737       204
+     neutral     0.7168    0.7654    0.7403       324
+
+    accuracy                         0.7124       692
+   macro avg     0.7110    0.7025    0.7048       692
+weighted avg     0.7137    0.7124    0.7112       692
+
+03/27/2024 11:13:58 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:13:58 - INFO - trainer -     eval loss: 2.107682704925537
+03/27/2024 11:13:58 - INFO - trainer -     acc = 0.7124277456647399
+03/27/2024 11:13:58 - INFO - trainer -     f1 = 0.7047784321393763
+03/27/2024 11:14:05 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:14:05 - INFO - trainer -     Num examples = 692
+03/27/2024 11:14:05 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7399    0.6667    0.7014       192
+  positivate     0.6012    0.7273    0.6582       143
+     neutral     0.7746    0.7507    0.7624       357
+
+    accuracy                         0.7225       692
+   macro avg     0.7052    0.7149    0.7073       692
+weighted avg     0.7291    0.7225    0.7240       692
+
+03/27/2024 11:14:06 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:14:06 - INFO - trainer -     eval loss: 1.9375090301036835
+03/27/2024 11:14:06 - INFO - trainer -     acc = 0.7225433526011561
+03/27/2024 11:14:06 - INFO - trainer -     f1 = 0.7073481227661546
+Epoch:  60%|██████████████████████████████████████████████████████▌                                    | 18/30 [12:43<08:31, 42.65s/it]
+03/27/2024 11:14:14 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:14:14 - INFO - trainer -     Num examples = 692
+03/27/2024 11:14:14 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7572    0.6550    0.7024       200
+  positivate     0.6647    0.7325    0.6970       157
+     neutral     0.7543    0.7791    0.7665       335
+
+    accuracy                         0.7327       692
+   macro avg     0.7254    0.7222    0.7220       692
+weighted avg     0.7348    0.7327    0.7322       692
+
+03/27/2024 11:14:15 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:14:15 - INFO - trainer -     eval loss: 2.02363303845579
+03/27/2024 11:14:15 - INFO - trainer -     acc = 0.7326589595375722
+03/27/2024 11:14:15 - INFO - trainer -     f1 = 0.721967463130317
+03/27/2024 11:14:23 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:14:23 - INFO - trainer -     Num examples = 692
+03/27/2024 11:14:23 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7341    0.6720    0.7017       189
+  positivate     0.7341    0.6195    0.6720       205
+     neutral     0.6792    0.7886    0.7298       298
+
+    accuracy                         0.7066       692
+   macro avg     0.7158    0.6934    0.7011       692
+weighted avg     0.7105    0.7066    0.7050       692
+
+03/27/2024 11:14:24 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:14:24 - INFO - trainer -     eval loss: 2.0951629389416087
+03/27/2024 11:14:24 - INFO - trainer -     acc = 0.7066473988439307
+03/27/2024 11:14:24 - INFO - trainer -     f1 = 0.7011429317058271
+03/27/2024 11:14:32 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:14:32 - INFO - trainer -     Num examples = 692
+03/27/2024 11:14:32 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7110    0.6833    0.6969       180
+  positivate     0.6474    0.7089    0.6767       158
+     neutral     0.7775    0.7599    0.7686       354
+
+    accuracy                         0.7283       692
+   macro avg     0.7119    0.7174    0.7141       692
+weighted avg     0.7305    0.7283    0.7290       692
+
+03/27/2024 11:14:33 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:14:33 - INFO - trainer -     eval loss: 2.054111884398894
+03/27/2024 11:14:33 - INFO - trainer -     acc = 0.7283236994219653
+03/27/2024 11:14:33 - INFO - trainer -     f1 = 0.7140641471278308
+03/27/2024 11:14:42 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:14:42 - INFO - trainer -     Num examples = 692
+03/27/2024 11:14:42 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7977    0.6244    0.7005       221
+  positivate     0.6994    0.6836    0.6914       177
+     neutral     0.6821    0.8027    0.7375       294
+
+    accuracy                         0.7153       692
+   macro avg     0.7264    0.7036    0.7098       692
+weighted avg     0.7234    0.7153    0.7139       692
+
+03/27/2024 11:14:43 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:14:43 - INFO - trainer -     eval loss: 2.2697560787200928
+03/27/2024 11:14:43 - INFO - trainer -     acc = 0.7153179190751445
+03/27/2024 11:14:43 - INFO - trainer -     f1 = 0.7098120618805899
+03/27/2024 11:14:52 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:14:52 - INFO - trainer -     Num examples = 692
+03/27/2024 11:14:52 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.8150    0.5900    0.6845       239
+  positivate     0.6705    0.6824    0.6764       170
+     neutral     0.6474    0.7915    0.7122       283
+
+    accuracy                         0.6951       692
+   macro avg     0.7110    0.6879    0.6910       692
+weighted avg     0.7110    0.6951    0.6938       692
+
+03/27/2024 11:14:53 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:14:53 - INFO - trainer -     eval loss: 2.3356821807948025
+03/27/2024 11:14:53 - INFO - trainer -     acc = 0.6950867052023122
+03/27/2024 11:14:53 - INFO - trainer -     f1 = 0.6910308374952484
+Epoch:  63%|█████████████████████████████████████████████████████████▋                                 | 19/30 [13:30<08:01, 43.76s/it]
+03/27/2024 11:15:02 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:15:02 - INFO - trainer -     Num examples = 692
+03/27/2024 11:15:02 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7283    0.6462    0.6848       195
+  positivate     0.6705    0.6339    0.6517       183
+     neutral     0.6850    0.7548    0.7182       314
+
+    accuracy                         0.6922       692
+   macro avg     0.6946    0.6783    0.6849       692
+weighted avg     0.6934    0.6922    0.6912       692
+
+03/27/2024 11:15:03 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:15:03 - INFO - trainer -     eval loss: 1.9554710604927756
+03/27/2024 11:15:03 - INFO - trainer -     acc = 0.6921965317919075
+03/27/2024 11:15:03 - INFO - trainer -     f1 = 0.6848832733786324
+03/27/2024 11:15:11 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:15:11 - INFO - trainer -     Num examples = 692
+03/27/2024 11:15:11 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6012    0.7172    0.6541       145
+  positivate     0.5954    0.7410    0.6603       139
+     neutral     0.8324    0.7059    0.7639       408
+
+    accuracy                         0.7153       692
+   macro avg     0.6763    0.7214    0.6928       692
+weighted avg     0.7363    0.7153    0.7201       692
+
+03/27/2024 11:15:12 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:15:12 - INFO - trainer -     eval loss: 2.0056203495372427
+03/27/2024 11:15:12 - INFO - trainer -     acc = 0.7153179190751445
+03/27/2024 11:15:12 - INFO - trainer -     f1 = 0.6927567300046155
+03/27/2024 11:15:21 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:15:21 - INFO - trainer -     Num examples = 692
+03/27/2024 11:15:21 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7168    0.6458    0.6795       192
+  positivate     0.6474    0.6437    0.6455       174
+     neutral     0.7139    0.7577    0.7351       326
+
+    accuracy                         0.6980       692
+   macro avg     0.6927    0.6824    0.6867       692
+weighted avg     0.6980    0.6980    0.6971       692
+
+03/27/2024 11:15:22 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:15:22 - INFO - trainer -     eval loss: 2.177748674696142
+03/27/2024 11:15:22 - INFO - trainer -     acc = 0.6979768786127167
+03/27/2024 11:15:22 - INFO - trainer -     f1 = 0.6867014145413144
+03/27/2024 11:15:29 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:15:29 - INFO - trainer -     Num examples = 692
+03/27/2024 11:15:29 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7919    0.5830    0.6716       235
+  positivate     0.6358    0.6707    0.6528       164
+     neutral     0.6618    0.7816    0.7167       293
+
+    accuracy                         0.6879       692
+   macro avg     0.6965    0.6784    0.6804       692
+weighted avg     0.6999    0.6879    0.6863       692
+
+03/27/2024 11:15:30 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:15:30 - INFO - trainer -     eval loss: 2.1444469581950796
+03/27/2024 11:15:30 - INFO - trainer -     acc = 0.6878612716763006
+03/27/2024 11:15:30 - INFO - trainer -     f1 = 0.6803775108256386
+03/27/2024 11:15:38 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:15:38 - INFO - trainer -     Num examples = 692
+03/27/2024 11:15:38 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.8150    0.5184    0.6337       272
+  positivate     0.5607    0.7080    0.6258       137
+     neutral     0.6272    0.7668    0.6900       283
+
+    accuracy                         0.6575       692
+   macro avg     0.6676    0.6644    0.6498       692
+weighted avg     0.6878    0.6575    0.6552       692
+
+03/27/2024 11:15:39 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:15:39 - INFO - trainer -     eval loss: 2.4859563925049524
+03/27/2024 11:15:39 - INFO - trainer -     acc = 0.6575144508670521
+03/27/2024 11:15:39 - INFO - trainer -     f1 = 0.6498328061767501
+Epoch:  67%|████████████████████████████████████████████████████████████▋                              | 20/30 [14:14<07:19, 43.97s/it]
+03/27/2024 11:15:47 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:15:47 - INFO - trainer -     Num examples = 692
+03/27/2024 11:15:47 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7572    0.5955    0.6667       220
+  positivate     0.6301    0.7078    0.6667       154
+     neutral     0.6936    0.7547    0.7229       318
+
+    accuracy                         0.6936       692
+   macro avg     0.6936    0.6860    0.6854       692
+weighted avg     0.6997    0.6936    0.6925       692
+
+03/27/2024 11:15:48 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:15:48 - INFO - trainer -     eval loss: 2.298231016505848
+03/27/2024 11:15:48 - INFO - trainer -     acc = 0.6936416184971098
+03/27/2024 11:15:48 - INFO - trainer -     f1 = 0.6854082998661312
+03/27/2024 11:15:55 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:15:55 - INFO - trainer -     Num examples = 692
+03/27/2024 11:15:55 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7341    0.6318    0.6791       201
+  positivate     0.5954    0.7687    0.6710       134
+     neutral     0.7688    0.7451    0.7568       357
+
+    accuracy                         0.7168       692
+   macro avg     0.6994    0.7152    0.7023       692
+weighted avg     0.7251    0.7168    0.7176       692
+
+03/27/2024 11:15:56 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:15:56 - INFO - trainer -     eval loss: 2.3678314929658715
+03/27/2024 11:15:56 - INFO - trainer -     acc = 0.7167630057803468
+03/27/2024 11:15:56 - INFO - trainer -     f1 = 0.7023036379234885
+03/27/2024 11:16:04 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:16:04 - INFO - trainer -     Num examples = 692
+03/27/2024 11:16:04 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6763    0.6802    0.6783       172
+  positivate     0.7110    0.6758    0.6930       182
+     neutral     0.7428    0.7604    0.7515       338
+
+    accuracy                         0.7182       692
+   macro avg     0.7100    0.7055    0.7076       692
+weighted avg     0.7179    0.7182    0.7179       692
+
+03/27/2024 11:16:05 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:16:05 - INFO - trainer -     eval loss: 1.7998914285139604
+03/27/2024 11:16:05 - INFO - trainer -     acc = 0.7182080924855492
+03/27/2024 11:16:05 - INFO - trainer -     f1 = 0.7075602014493948
+03/27/2024 11:16:13 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:16:13 - INFO - trainer -     Num examples = 692
+03/27/2024 11:16:13 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7630    0.7135    0.7374       185
+  positivate     0.7110    0.6543    0.6814       188
+     neutral     0.7283    0.7900    0.7579       319
+
+    accuracy                         0.7327       692
+   macro avg     0.7341    0.7192    0.7256       692
+weighted avg     0.7329    0.7327    0.7317       692
+
+03/27/2024 11:16:14 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:16:14 - INFO - trainer -     eval loss: 1.8628458787094464
+03/27/2024 11:16:14 - INFO - trainer -     acc = 0.7326589595375722
+03/27/2024 11:16:14 - INFO - trainer -     f1 = 0.7255884492177224
+03/27/2024 11:16:21 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:16:21 - INFO - trainer -     Num examples = 692
+03/27/2024 11:16:21 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7399    0.7033    0.7211       182
+  positivate     0.7110    0.5913    0.6457       208
+     neutral     0.6734    0.7715    0.7191       302
+
+    accuracy                         0.6994       692
+   macro avg     0.7081    0.6887    0.6953       692
+weighted avg     0.7022    0.6994    0.6976       692
+
+03/27/2024 11:16:22 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:16:22 - INFO - trainer -     eval loss: 2.074220960790461
+03/27/2024 11:16:22 - INFO - trainer -     acc = 0.6994219653179191
+03/27/2024 11:16:22 - INFO - trainer -     f1 = 0.6953106181236995
+Epoch:  70%|███████████████████████████████████████████████████████████████▋                           | 21/30 [14:57<06:31, 43.50s/it]
+03/27/2024 11:16:30 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:16:30 - INFO - trainer -     Num examples = 692
+03/27/2024 11:16:30 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.8382    0.5598    0.6713       259
+  positivate     0.6127    0.7310    0.6667       145
+     neutral     0.6590    0.7917    0.7192       288
+
+    accuracy                         0.6922       692
+   macro avg     0.7033    0.6942    0.6857       692
+weighted avg     0.7163    0.6922    0.6903       692
+
+03/27/2024 11:16:31 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:16:31 - INFO - trainer -     eval loss: 2.5239631912925025
+03/27/2024 11:16:31 - INFO - trainer -     acc = 0.6921965317919075
+03/27/2024 11:16:31 - INFO - trainer -     f1 = 0.6857352883903882
+03/27/2024 11:16:39 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:16:39 - INFO - trainer -     Num examples = 692
+03/27/2024 11:16:39 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7514    0.6667    0.7065       195
+  positivate     0.7399    0.5872    0.6547       218
+     neutral     0.6272    0.7778    0.6944       279
+
+    accuracy                         0.6864       692
+   macro avg     0.7062    0.6772    0.6852       692
+weighted avg     0.6977    0.6864    0.6853       692
+
+03/27/2024 11:16:40 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:16:40 - INFO - trainer -     eval loss: 2.245630556886846
+03/27/2024 11:16:40 - INFO - trainer -     acc = 0.6864161849710982
+03/27/2024 11:16:40 - INFO - trainer -     f1 = 0.6852177323103154
+03/27/2024 11:16:47 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:16:47 - INFO - trainer -     Num examples = 692
+03/27/2024 11:16:47 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7399    0.6957    0.7171       184
+  positivate     0.5780    0.8000    0.6711       125
+     neutral     0.8237    0.7441    0.7819       383
+
+    accuracy                         0.7413       692
+   macro avg     0.7139    0.7466    0.7234       692
+weighted avg     0.7570    0.7413    0.7447       692
+
+03/27/2024 11:16:48 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:16:48 - INFO - trainer -     eval loss: 1.9968214956196872
+03/27/2024 11:16:48 - INFO - trainer -     acc = 0.7413294797687862
+03/27/2024 11:16:48 - INFO - trainer -     f1 = 0.7233735928154784
+03/27/2024 11:16:56 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:16:56 - INFO - trainer -     Num examples = 692
+03/27/2024 11:16:56 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.8266    0.6085    0.7010       235
+  positivate     0.6763    0.6802    0.6783       172
+     neutral     0.6618    0.8035    0.7258       285
+
+    accuracy                         0.7066       692
+   macro avg     0.7216    0.6974    0.7017       692
+weighted avg     0.7214    0.7066    0.7056       692
+
+03/27/2024 11:16:57 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:16:57 - INFO - trainer -     eval loss: 2.0907738371328874
+03/27/2024 11:16:57 - INFO - trainer -     acc = 0.7066473988439307
+03/27/2024 11:16:57 - INFO - trainer -     f1 = 0.7016910914667894
+03/27/2024 11:17:05 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:17:05 - INFO - trainer -     Num examples = 692
+03/27/2024 11:17:05 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7341    0.6649    0.6978       191
+  positivate     0.6590    0.6826    0.6706       167
+     neutral     0.7399    0.7665    0.7529       334
+
+    accuracy                         0.7182       692
+   macro avg     0.7110    0.7047    0.7071       692
+weighted avg     0.7188    0.7182    0.7178       692
+
+03/27/2024 11:17:06 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:17:06 - INFO - trainer -     eval loss: 2.115399940447374
+03/27/2024 11:17:06 - INFO - trainer -     acc = 0.7182080924855492
+03/27/2024 11:17:06 - INFO - trainer -     f1 = 0.7071105365223013
+Epoch:  73%|██████████████████████████████████████████████████████████████████▋                        | 22/30 [15:39<05:45, 43.19s/it]
+03/27/2024 11:17:13 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:17:13 - INFO - trainer -     Num examples = 692
+03/27/2024 11:17:13 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7168    0.6703    0.6927       185
+  positivate     0.6069    0.7241    0.6604       145
+     neutral     0.7746    0.7403    0.7571       362
+
+    accuracy                         0.7182       692
+   macro avg     0.6994    0.7116    0.7034       692
+weighted avg     0.7240    0.7182    0.7196       692
+
+03/27/2024 11:17:14 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:17:14 - INFO - trainer -     eval loss: 2.2032558159394697
+03/27/2024 11:17:14 - INFO - trainer -     acc = 0.7182080924855492
+03/27/2024 11:17:14 - INFO - trainer -     f1 = 0.7033923118502731
+03/27/2024 11:17:22 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:17:22 - INFO - trainer -     Num examples = 692
+03/27/2024 11:17:22 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7110    0.6833    0.6969       180
+  positivate     0.6994    0.6914    0.6954       175
+     neutral     0.7399    0.7596    0.7496       337
+
+    accuracy                         0.7225       692
+   macro avg     0.7168    0.7115    0.7140       692
+weighted avg     0.7221    0.7225    0.7222       692
+
+03/27/2024 11:17:23 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:17:23 - INFO - trainer -     eval loss: 2.210379860617898
+03/27/2024 11:17:23 - INFO - trainer -     acc = 0.7225433526011561
+03/27/2024 11:17:23 - INFO - trainer -     f1 = 0.7139733731103194
+03/27/2024 11:17:31 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:17:31 - INFO - trainer -     Num examples = 692
+03/27/2024 11:17:31 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7457    0.7288    0.7371       177
+  positivate     0.6243    0.6968    0.6585       155
+     neutral     0.7861    0.7556    0.7705       360
+
+    accuracy                         0.7355       692
+   macro avg     0.7187    0.7270    0.7221       692
+weighted avg     0.7395    0.7355    0.7369       692
+
+03/27/2024 11:17:32 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:17:32 - INFO - trainer -     eval loss: 2.02446431463415
+03/27/2024 11:17:32 - INFO - trainer -     acc = 0.7355491329479769
+03/27/2024 11:17:32 - INFO - trainer -     f1 = 0.7220725620449243
+03/27/2024 11:17:39 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:17:39 - INFO - trainer -     Num examples = 692
+03/27/2024 11:17:39 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.8266    0.6008    0.6959       238
+  positivate     0.5838    0.7481    0.6558       135
+     neutral     0.6994    0.7586    0.7278       319
+
+    accuracy                         0.7023       692
+   macro avg     0.7033    0.7025    0.6932       692
+weighted avg     0.7206    0.7023    0.7028       692
+
+03/27/2024 11:17:40 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:17:40 - INFO - trainer -     eval loss: 2.3534167110919952
+03/27/2024 11:17:40 - INFO - trainer -     acc = 0.7023121387283237
+03/27/2024 11:17:40 - INFO - trainer -     f1 = 0.6931758172249913
+03/27/2024 11:17:48 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:17:48 - INFO - trainer -     Num examples = 692
+03/27/2024 11:17:48 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6647    0.7372    0.6991       156
+  positivate     0.6532    0.7483    0.6975       151
+     neutral     0.8179    0.7351    0.7743       385
+
+    accuracy                         0.7384       692
+   macro avg     0.7119    0.7402    0.7236       692
+weighted avg     0.7474    0.7384    0.7406       692
+
+03/27/2024 11:17:49 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:17:49 - INFO - trainer -     eval loss: 2.1761561957272617
+03/27/2024 11:17:49 - INFO - trainer -     acc = 0.7384393063583815
+03/27/2024 11:17:49 - INFO - trainer -     f1 = 0.7236336052799138
+Epoch:  77%|█████████████████████████████████████████████████████████████████████▊                     | 23/30 [16:22<05:01, 43.10s/it]
+03/27/2024 11:17:57 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:17:57 - INFO - trainer -     Num examples = 692
+03/27/2024 11:17:57 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7399    0.6737    0.7052       190
+  positivate     0.7688    0.6520    0.7056       204
+     neutral     0.6879    0.7987    0.7391       298
+
+    accuracy                         0.7211       692
+   macro avg     0.7322    0.7081    0.7166       692
+weighted avg     0.7260    0.7211    0.7199       692
+
+03/27/2024 11:17:58 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:17:58 - INFO - trainer -     eval loss: 2.315695973959836
+03/27/2024 11:17:58 - INFO - trainer -     acc = 0.7210982658959537
+03/27/2024 11:17:58 - INFO - trainer -     f1 = 0.7166449621131372
+03/27/2024 11:18:06 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:18:06 - INFO - trainer -     Num examples = 692
+03/27/2024 11:18:06 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7052    0.7093    0.7072       172
+  positivate     0.7457    0.6324    0.6844       204
+     neutral     0.7110    0.7785    0.7432       316
+
+    accuracy                         0.7182       692
+   macro avg     0.7206    0.7067    0.7116       692
+weighted avg     0.7198    0.7182    0.7169       692
+
+03/27/2024 11:18:07 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:18:07 - INFO - trainer -     eval loss: 2.4178213748064907
+03/27/2024 11:18:07 - INFO - trainer -     acc = 0.7182080924855492
+03/27/2024 11:18:07 - INFO - trainer -     f1 = 0.7115996421186725
+03/27/2024 11:18:15 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:18:15 - INFO - trainer -     Num examples = 692
+03/27/2024 11:18:15 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6532    0.7483    0.6975       151
+  positivate     0.6879    0.6879    0.6879       173
+     neutral     0.7919    0.7446    0.7675       368
+
+    accuracy                         0.7312       692
+   macro avg     0.7110    0.7269    0.7176       692
+weighted avg     0.7356    0.7312    0.7323       692
+
+03/27/2024 11:18:16 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:18:16 - INFO - trainer -     eval loss: 2.4748359430919993
+03/27/2024 11:18:16 - INFO - trainer -     acc = 0.7312138728323699
+03/27/2024 11:18:16 - INFO - trainer -     f1 = 0.717633046224984
+03/27/2024 11:18:24 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:18:24 - INFO - trainer -     Num examples = 692
+03/27/2024 11:18:24 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6994    0.7035    0.7014       172
+  positivate     0.6879    0.6648    0.6761       179
+     neutral     0.7341    0.7449    0.7394       341
+
+    accuracy                         0.7139       692
+   macro avg     0.7071    0.7044    0.7057       692
+weighted avg     0.7135    0.7139    0.7136       692
+
+03/27/2024 11:18:25 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:18:25 - INFO - trainer -     eval loss: 2.1822282130068
+03/27/2024 11:18:25 - INFO - trainer -     acc = 0.7138728323699421
+03/27/2024 11:18:25 - INFO - trainer -     f1 = 0.7056775031499732
+03/27/2024 11:18:33 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:18:33 - INFO - trainer -     Num examples = 692
+03/27/2024 11:18:33 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6590    0.6994    0.6786       163
+  positivate     0.6763    0.6610    0.6686       177
+     neutral     0.7572    0.7443    0.7507       352
+
+    accuracy                         0.7124       692
+   macro avg     0.6975    0.7016    0.6993       692
+weighted avg     0.7134    0.7124    0.7127       692
+
+03/27/2024 11:18:34 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:18:34 - INFO - trainer -     eval loss: 2.221822142601013
+03/27/2024 11:18:34 - INFO - trainer -     acc = 0.7124277456647399
+03/27/2024 11:18:34 - INFO - trainer -     f1 = 0.699286396507027
+Epoch:  80%|████████████████████████████████████████████████████████████████████████▊                  | 24/30 [17:06<04:19, 43.22s/it]
+03/27/2024 11:18:42 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:18:42 - INFO - trainer -     Num examples = 692
+03/27/2024 11:18:42 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7861    0.5887    0.6733       231
+  positivate     0.6879    0.6503    0.6685       183
+     neutral     0.6272    0.7806    0.6955       278
+
+    accuracy                         0.6821       692
+   macro avg     0.7004    0.6732    0.6791       692
+weighted avg     0.6963    0.6821    0.6810       692
+
+03/27/2024 11:18:43 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:18:43 - INFO - trainer -     eval loss: 2.4382590272209863
+03/27/2024 11:18:43 - INFO - trainer -     acc = 0.6820809248554913
+03/27/2024 11:18:43 - INFO - trainer -     f1 = 0.6791064910293967
+03/27/2024 11:18:51 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:18:51 - INFO - trainer -     Num examples = 692
+03/27/2024 11:18:51 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7168    0.6739    0.6947       184
+  positivate     0.6821    0.6556    0.6686       180
+     neutral     0.7225    0.7622    0.7418       328
+
+    accuracy                         0.7110       692
+   macro avg     0.7071    0.6972    0.7017       692
+weighted avg     0.7105    0.7110    0.7102       692
+
+03/27/2024 11:18:52 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:18:52 - INFO - trainer -     eval loss: 2.436336100101471
+03/27/2024 11:18:52 - INFO - trainer -     acc = 0.7109826589595376
+03/27/2024 11:18:52 - INFO - trainer -     f1 = 0.7016909581843122
+03/27/2024 11:19:00 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:19:00 - INFO - trainer -     Num examples = 692
+03/27/2024 11:19:00 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7746    0.5826    0.6650       230
+  positivate     0.6647    0.6686    0.6667       172
+     neutral     0.6445    0.7690    0.7013       290
+
+    accuracy                         0.6821       692
+   macro avg     0.6946    0.6734    0.6776       692
+weighted avg     0.6928    0.6821    0.6806       692
+
+03/27/2024 11:19:01 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:19:01 - INFO - trainer -     eval loss: 2.628248258070512
+03/27/2024 11:19:01 - INFO - trainer -     acc = 0.6820809248554913
+03/27/2024 11:19:01 - INFO - trainer -     f1 = 0.6776456450832592
+03/27/2024 11:19:09 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:19:09 - INFO - trainer -     Num examples = 692
+03/27/2024 11:19:09 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7630    0.6535    0.7040       202
+  positivate     0.6590    0.7081    0.6826       161
+     neutral     0.7225    0.7599    0.7407       329
+
+    accuracy                         0.7168       692
+   macro avg     0.7148    0.7071    0.7091       692
+weighted avg     0.7196    0.7168    0.7165       692
+
+03/27/2024 11:19:10 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:19:10 - INFO - trainer -     eval loss: 2.325472154400565
+03/27/2024 11:19:10 - INFO - trainer -     acc = 0.7167630057803468
+03/27/2024 11:19:10 - INFO - trainer -     f1 = 0.709125157093221
+03/27/2024 11:19:18 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:19:18 - INFO - trainer -     Num examples = 692
+03/27/2024 11:19:18 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7110    0.6833    0.6969       180
+  positivate     0.7052    0.6667    0.6854       183
+     neutral     0.7110    0.7477    0.7289       329
+
+    accuracy                         0.7095       692
+   macro avg     0.7091    0.6992    0.7037       692
+weighted avg     0.7095    0.7095    0.7091       692
+
+03/27/2024 11:19:19 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:19:19 - INFO - trainer -     eval loss: 2.42016355286945
+03/27/2024 11:19:19 - INFO - trainer -     acc = 0.7095375722543352
+03/27/2024 11:19:19 - INFO - trainer -     f1 = 0.7037220000023577
+Epoch:  83%|███████████████████████████████████████████████████████████████████████████▊               | 25/30 [17:49<03:37, 43.43s/it]
+03/27/2024 11:19:27 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:19:27 - INFO - trainer -     Num examples = 692
+03/27/2024 11:19:27 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6301    0.7171    0.6708       152
+  positivate     0.6532    0.7197    0.6848       157
+     neutral     0.8006    0.7232    0.7599       383
+
+    accuracy                         0.7211       692
+   macro avg     0.6946    0.7200    0.7052       692
+weighted avg     0.7297    0.7211    0.7233       692
+
+03/27/2024 11:19:28 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:19:28 - INFO - trainer -     eval loss: 2.509728892283006
+03/27/2024 11:19:28 - INFO - trainer -     acc = 0.7210982658959537
+03/27/2024 11:19:28 - INFO - trainer -     f1 = 0.7051876153110722
+03/27/2024 11:19:35 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:19:35 - INFO - trainer -     Num examples = 692
+03/27/2024 11:19:35 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7572    0.6268    0.6859       209
+  positivate     0.6647    0.6686    0.6667       172
+     neutral     0.6850    0.7621    0.7215       311
+
+    accuracy                         0.6980       692
+   macro avg     0.7023    0.6858    0.6913       692
+weighted avg     0.7018    0.6980    0.6971       692
+
+03/27/2024 11:19:36 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:19:36 - INFO - trainer -     eval loss: 2.598450682379983
+03/27/2024 11:19:36 - INFO - trainer -     acc = 0.6979768786127167
+03/27/2024 11:19:36 - INFO - trainer -     f1 = 0.6913305760756093
+03/27/2024 11:19:44 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:19:44 - INFO - trainer -     Num examples = 692
+03/27/2024 11:19:44 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7399    0.6564    0.6957       195
+  positivate     0.6243    0.7200    0.6687       150
+     neutral     0.7486    0.7464    0.7475       347
+
+    accuracy                         0.7153       692
+   macro avg     0.7042    0.7076    0.7040       692
+weighted avg     0.7192    0.7153    0.7158       692
+
+03/27/2024 11:19:45 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:19:45 - INFO - trainer -     eval loss: 2.4240493124181572
+03/27/2024 11:19:45 - INFO - trainer -     acc = 0.7153179190751445
+03/27/2024 11:19:45 - INFO - trainer -     f1 = 0.7039525238475299
+03/27/2024 11:19:53 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:19:53 - INFO - trainer -     Num examples = 692
+03/27/2024 11:19:53 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6936    0.7101    0.7018       169
+  positivate     0.7052    0.6524    0.6778       187
+     neutral     0.7312    0.7530    0.7419       336
+
+    accuracy                         0.7153       692
+   macro avg     0.7100    0.7051    0.7072       692
+weighted avg     0.7150    0.7153    0.7148       692
+
+03/27/2024 11:19:54 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:19:54 - INFO - trainer -     eval loss: 2.395962812683799
+03/27/2024 11:19:54 - INFO - trainer -     acc = 0.7153179190751445
+03/27/2024 11:19:54 - INFO - trainer -     f1 = 0.707155882537886
+Epoch:  87%|██████████████████████████████████████████████████████████████████████████████▊            | 26/30 [18:31<02:51, 42.99s/it]
+03/27/2024 11:20:02 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:20:02 - INFO - trainer -     Num examples = 692
+03/27/2024 11:20:02 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.8382    0.5534    0.6667       262
+  positivate     0.6069    0.7143    0.6562       147
+     neutral     0.6272    0.7668    0.6900       283
+
+    accuracy                         0.6749       692
+   macro avg     0.6908    0.6782    0.6710       692
+weighted avg     0.7028    0.6749    0.6740       692
+
+03/27/2024 11:20:03 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:20:03 - INFO - trainer -     eval loss: 2.375199941071597
+03/27/2024 11:20:03 - INFO - trainer -     acc = 0.6748554913294798
+03/27/2024 11:20:03 - INFO - trainer -     f1 = 0.670966922805158
+03/27/2024 11:20:10 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:20:10 - INFO - trainer -     Num examples = 692
+03/27/2024 11:20:10 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7688    0.6333    0.6945       210
+  positivate     0.7341    0.6225    0.6737       204
+     neutral     0.6358    0.7914    0.7051       278
+
+    accuracy                         0.6936       692
+   macro avg     0.7129    0.6824    0.6911       692
+weighted avg     0.7052    0.6936    0.6927       692
+
+03/27/2024 11:20:11 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:20:11 - INFO - trainer -     eval loss: 2.366931823166934
+03/27/2024 11:20:11 - INFO - trainer -     acc = 0.6936416184971098
+03/27/2024 11:20:11 - INFO - trainer -     f1 = 0.6911284098193256
+03/27/2024 11:20:19 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:20:19 - INFO - trainer -     Num examples = 692
+03/27/2024 11:20:19 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7399    0.6598    0.6975       194
+  positivate     0.6243    0.7105    0.6646       152
+     neutral     0.7428    0.7428    0.7428       346
+
+    accuracy                         0.7124       692
+   macro avg     0.7023    0.7044    0.7016       692
+weighted avg     0.7159    0.7124    0.7129       692
+
+03/27/2024 11:20:20 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:20:20 - INFO - trainer -     eval loss: 2.1032791462811558
+03/27/2024 11:20:20 - INFO - trainer -     acc = 0.7124277456647399
+03/27/2024 11:20:20 - INFO - trainer -     f1 = 0.7016458783376929
+03/27/2024 11:20:28 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:20:28 - INFO - trainer -     Num examples = 692
+03/27/2024 11:20:28 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7746    0.6505    0.7071       206
+  positivate     0.6358    0.6667    0.6509       165
+     neutral     0.7023    0.7570    0.7286       321
+
+    accuracy                         0.7038       692
+   macro avg     0.7042    0.6914    0.6955       692
+weighted avg     0.7080    0.7038    0.7037       692
+
+03/27/2024 11:20:29 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:20:29 - INFO - trainer -     eval loss: 2.3156242912465874
+03/27/2024 11:20:29 - INFO - trainer -     acc = 0.703757225433526
+03/27/2024 11:20:29 - INFO - trainer -     f1 = 0.6955490888925024
+03/27/2024 11:20:36 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:20:36 - INFO - trainer -     Num examples = 692
+03/27/2024 11:20:36 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7110    0.6543    0.6814       188
+  positivate     0.5376    0.8017    0.6436       116
+     neutral     0.8092    0.7216    0.7629       388
+
+    accuracy                         0.7168       692
+   macro avg     0.6859    0.7259    0.6960       692
+weighted avg     0.7370    0.7168    0.7208       692
+
+03/27/2024 11:20:37 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:20:37 - INFO - trainer -     eval loss: 2.5175462907010857
+03/27/2024 11:20:37 - INFO - trainer -     acc = 0.7167630057803468
+03/27/2024 11:20:37 - INFO - trainer -     f1 = 0.6959939461406015
+Epoch:  90%|█████████████████████████████████████████████████████████████████████████████████▉         | 27/30 [19:14<02:08, 42.78s/it]
+03/27/2024 11:20:45 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:20:45 - INFO - trainer -     Num examples = 692
+03/27/2024 11:20:45 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6763    0.7048    0.6903       166
+  positivate     0.6590    0.7037    0.6806       162
+     neutral     0.7746    0.7363    0.7549       364
+
+    accuracy                         0.7211       692
+   macro avg     0.7033    0.7149    0.7086       692
+weighted avg     0.7239    0.7211    0.7220       692
+
+03/27/2024 11:20:46 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:20:46 - INFO - trainer -     eval loss: 2.147341565652327
+03/27/2024 11:20:46 - INFO - trainer -     acc = 0.7210982658959537
+03/27/2024 11:20:46 - INFO - trainer -     f1 = 0.7085973597052752
+03/27/2024 11:20:54 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:20:54 - INFO - trainer -     Num examples = 692
+03/27/2024 11:20:54 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7341    0.6615    0.6959       192
+  positivate     0.6301    0.7078    0.6667       154
+     neutral     0.7486    0.7486    0.7486       346
+
+    accuracy                         0.7153       692
+   macro avg     0.7042    0.7059    0.7037       692
+weighted avg     0.7182    0.7153    0.7157       692
+
+03/27/2024 11:20:55 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:20:55 - INFO - trainer -     eval loss: 2.189390778541565
+03/27/2024 11:20:55 - INFO - trainer -     acc = 0.7153179190751445
+03/27/2024 11:20:55 - INFO - trainer -     f1 = 0.7037039969734561
+03/27/2024 11:21:02 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:21:02 - INFO - trainer -     Num examples = 692
+03/27/2024 11:21:02 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7514    0.6842    0.7163       190
+  positivate     0.6416    0.7551    0.6937       147
+     neutral     0.7775    0.7577    0.7675       355
+
+    accuracy                         0.7370       692
+   macro avg     0.7235    0.7324    0.7258       692
+weighted avg     0.7415    0.7370    0.7378       692
+
+03/27/2024 11:21:03 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:21:03 - INFO - trainer -     eval loss: 1.9340081377462908
+03/27/2024 11:21:03 - INFO - trainer -     acc = 0.7369942196531792
+03/27/2024 11:21:03 - INFO - trainer -     f1 = 0.7258261597298362
+03/27/2024 11:21:11 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:21:11 - INFO - trainer -     Num examples = 692
+03/27/2024 11:21:11 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6243    0.7606    0.6857       142
+  positivate     0.6590    0.7081    0.6826       161
+     neutral     0.8179    0.7275    0.7701       389
+
+    accuracy                         0.7298       692
+   macro avg     0.7004    0.7320    0.7128       692
+weighted avg     0.7412    0.7298    0.7324       692
+
+03/27/2024 11:21:12 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:21:12 - INFO - trainer -     eval loss: 1.8132339147004215
+03/27/2024 11:21:12 - INFO - trainer -     acc = 0.7297687861271677
+03/27/2024 11:21:12 - INFO - trainer -     f1 = 0.7128056811546974
+03/27/2024 11:21:19 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:21:19 - INFO - trainer -     Num examples = 692
+03/27/2024 11:21:19 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7399    0.6632    0.6995       193
+  positivate     0.6647    0.7055    0.6845       163
+     neutral     0.7457    0.7679    0.7566       336
+
+    accuracy                         0.7240       692
+   macro avg     0.7168    0.7122    0.7135       692
+weighted avg     0.7250    0.7240    0.7237       692
+
+03/27/2024 11:21:20 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:21:20 - INFO - trainer -     eval loss: 1.8518166975541548
+03/27/2024 11:21:20 - INFO - trainer -     acc = 0.7239884393063584
+03/27/2024 11:21:20 - INFO - trainer -     f1 = 0.7135252006351953
+Epoch:  93%|████████████████████████████████████████████████████████████████████████████████████▉      | 28/30 [19:56<01:25, 42.65s/it]
+03/27/2024 11:21:28 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:21:28 - INFO - trainer -     Num examples = 692
+03/27/2024 11:21:28 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7283    0.6774    0.7019       186
+  positivate     0.6358    0.6832    0.6587       161
+     neutral     0.7428    0.7449    0.7438       345
+
+    accuracy                         0.7124       692
+   macro avg     0.7023    0.7019    0.7015       692
+weighted avg     0.7140    0.7124    0.7128       692
+
+03/27/2024 11:21:29 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:21:29 - INFO - trainer -     eval loss: 2.134574524380944
+03/27/2024 11:21:29 - INFO - trainer -     acc = 0.7124277456647399
+03/27/2024 11:21:29 - INFO - trainer -     f1 = 0.7014939963141572
+03/27/2024 11:21:37 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:21:37 - INFO - trainer -     Num examples = 692
+03/27/2024 11:21:37 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7168    0.6263    0.6685       198
+  positivate     0.6069    0.7095    0.6542       148
+     neutral     0.7312    0.7312    0.7312       346
+
+    accuracy                         0.6965       692
+   macro avg     0.6850    0.6890    0.6846       692
+weighted avg     0.7005    0.6965    0.6968       692
+
+03/27/2024 11:21:38 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:21:38 - INFO - trainer -     eval loss: 2.443937962705439
+03/27/2024 11:21:38 - INFO - trainer -     acc = 0.6965317919075145
+03/27/2024 11:21:38 - INFO - trainer -     f1 = 0.6846276973896145
+03/27/2024 11:21:45 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:21:45 - INFO - trainer -     Num examples = 692
+03/27/2024 11:21:45 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7110    0.6340    0.6703       194
+  positivate     0.5780    0.7576    0.6557       132
+     neutral     0.7746    0.7322    0.7528       366
+
+    accuracy                         0.7095       692
+   macro avg     0.6879    0.7079    0.6929       692
+weighted avg     0.7193    0.7095    0.7112       692
+
+03/27/2024 11:21:46 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:21:46 - INFO - trainer -     eval loss: 1.973809372295033
+03/27/2024 11:21:46 - INFO - trainer -     acc = 0.7095375722543352
+03/27/2024 11:21:46 - INFO - trainer -     f1 = 0.6929488070675046
+03/27/2024 11:21:54 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:21:54 - INFO - trainer -     Num examples = 692
+03/27/2024 11:21:54 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6936    0.7018    0.6977       171
+  positivate     0.6590    0.7037    0.6806       162
+     neutral     0.7601    0.7326    0.7461       359
+
+    accuracy                         0.7182       692
+   macro avg     0.7042    0.7127    0.7081       692
+weighted avg     0.7200    0.7182    0.7188       692
+
+03/27/2024 11:21:55 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:21:55 - INFO - trainer -     eval loss: 2.2038509954105723
+03/27/2024 11:21:55 - INFO - trainer -     acc = 0.7182080924855492
+03/27/2024 11:21:55 - INFO - trainer -     f1 = 0.7081235747700555
+03/27/2024 11:22:03 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:22:03 - INFO - trainer -     Num examples = 692
+03/27/2024 11:22:03 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6821    0.7066    0.6941       167
+  positivate     0.7052    0.6630    0.6835       184
+     neutral     0.7457    0.7566    0.7511       341
+
+    accuracy                         0.7197       692
+   macro avg     0.7110    0.7087    0.7096       692
+weighted avg     0.7196    0.7197    0.7194       692
+
+03/27/2024 11:22:04 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:22:04 - INFO - trainer -     eval loss: 2.3712923337112772
+03/27/2024 11:22:04 - INFO - trainer -     acc = 0.7196531791907514
+03/27/2024 11:22:04 - INFO - trainer -     f1 = 0.7095609131571115
+Epoch:  97%|███████████████████████████████████████████████████████████████████████████████████████▉   | 29/30 [20:38<00:42, 42.50s/it]
+03/27/2024 11:22:11 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:22:11 - INFO - trainer -     Num examples = 692
+03/27/2024 11:22:11 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6647    0.7055    0.6845       163
+  positivate     0.6243    0.7500    0.6814       144
+     neutral     0.8035    0.7221    0.7606       385
+
+    accuracy                         0.7240       692
+   macro avg     0.6975    0.7259    0.7088       692
+weighted avg     0.7335    0.7240    0.7262       692
+
+03/27/2024 11:22:12 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:22:12 - INFO - trainer -     eval loss: 2.2145135781981726
+03/27/2024 11:22:12 - INFO - trainer -     acc = 0.7239884393063584
+03/27/2024 11:22:12 - INFO - trainer -     f1 = 0.7088379124422616
+03/27/2024 11:22:20 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:22:20 - INFO - trainer -     Num examples = 692
+03/27/2024 11:22:20 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6936    0.6857    0.6897       175
+  positivate     0.6069    0.7192    0.6583       146
+     neutral     0.7919    0.7385    0.7643       371
+
+    accuracy                         0.7211       692
+   macro avg     0.6975    0.7145    0.7041       692
+weighted avg     0.7280    0.7211    0.7231       692
+
+03/27/2024 11:22:21 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:22:21 - INFO - trainer -     eval loss: 2.2327112718061968
+03/27/2024 11:22:21 - INFO - trainer -     acc = 0.7210982658959537
+03/27/2024 11:22:21 - INFO - trainer -     f1 = 0.7040860196249029
+03/27/2024 11:22:29 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:22:29 - INFO - trainer -     Num examples = 692
+03/27/2024 11:22:29 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7457    0.6649    0.7030       194
+  positivate     0.6358    0.7190    0.6748       153
+     neutral     0.7630    0.7652    0.7641       345
+
+    accuracy                         0.7269       692
+   macro avg     0.7148    0.7164    0.7140       692
+weighted avg     0.7300    0.7269    0.7272       692
+
+03/27/2024 11:22:30 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:22:30 - INFO - trainer -     eval loss: 2.254941024563529
+03/27/2024 11:22:30 - INFO - trainer -     acc = 0.726878612716763
+03/27/2024 11:22:30 - INFO - trainer -     f1 = 0.7139846288331503
+03/27/2024 11:22:37 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:22:37 - INFO - trainer -     Num examples = 692
+03/27/2024 11:22:37 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.6358    0.7483    0.6875       147
+  positivate     0.6012    0.7172    0.6541       145
+     neutral     0.8237    0.7125    0.7641       400
+
+    accuracy                         0.7211       692
+   macro avg     0.6869    0.7260    0.7019       692
+weighted avg     0.7372    0.7211    0.7248       692
+
+03/27/2024 11:22:38 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:22:38 - INFO - trainer -     eval loss: 2.4202425588260996
+03/27/2024 11:22:38 - INFO - trainer -     acc = 0.7210982658959537
+03/27/2024 11:22:38 - INFO - trainer -     f1 = 0.7018877057795313
+03/27/2024 11:22:46 - INFO - trainer -   ***** Running evaluation *****
+03/27/2024 11:22:46 - INFO - trainer -     Num examples = 692
+03/27/2024 11:22:46 - INFO - trainer -     Batch size = 32
+              precision    recall  f1-score   support
+
+  negativate     0.7688    0.6186    0.6856       215
+  positivate     0.6069    0.7664    0.6774       137
+     neutral     0.7486    0.7618    0.7551       340
+
+    accuracy                         0.7182       692
+   macro avg     0.7081    0.7156    0.7060       692
+weighted avg     0.7268    0.7182    0.7181       692
+
+03/27/2024 11:22:47 - INFO - trainer -   ***** Eval results *****
+03/27/2024 11:22:47 - INFO - trainer -     eval loss: 2.1602217121557756
+03/27/2024 11:22:47 - INFO - trainer -     acc = 0.7182080924855492
+03/27/2024 11:22:47 - INFO - trainer -     f1 = 0.7060294686547716
+Epoch: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 30/30 [21:21<00:00, 42.70s/it]
+03/27/2024 11:22:50 - INFO - __main__ -     acc = 0.7543352601156069
+03/27/2024 11:22:50 - INFO - __main__ -     f1 = 0.7438677238418077
+run.sh: line 18: ncased: command not found
+(base) lishengping@apple:/nas2/lishengping/caiyun_projects/rgat_absa$ tmux a -t A
+sessions should be nested with care, unset $TMUX to force
+(base) lishengping@apple:/nas2/lishengping/caiyun_projects/rgat_absa$ tmux capture-pane -S -32768
+

@@ -1,0 +1,1962 @@
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+03/26/2024 18:27:08 - INFO - datasets -   Total sentiment counter: defaultdict(<class 'int'>, {'neutral': 460, 'positive': 987, 'negati
+ve': 866})
+03/26/2024 18:27:08 - INFO - datasets -   Multi-Aspect-Multi-Sentiment counter: defaultdict(<class 'int'>, {'neutral': 170, 'positive':
+ 145, 'negative': 140})
+03/26/2024 18:27:08 - INFO - datasets -   *** Start processing data(unrolling and reshaping) ***
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 0 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: train
+sentiment: 2 dataset_name: laptop dtype: train
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+03/26/2024 18:27:08 - INFO - datasets -   Total sentiment counter: defaultdict(<class 'int'>, {'positive': 341, 'negative': 128, 'neutr
+al': 169})
+03/26/2024 18:27:08 - INFO - datasets -   Multi-Aspect-Multi-Sentiment counter: defaultdict(<class 'int'>, {'negative': 24, 'positive':
+ 31, 'neutral': 48})
+03/26/2024 18:27:08 - INFO - datasets -   ****** After unrolling ******
+03/26/2024 18:27:08 - INFO - datasets -   Train set size: 2313
+03/26/2024 18:27:08 - INFO - datasets -   Test set size: 638,
+03/26/2024 18:27:08 - INFO - datasets -   Creating vocab of dependency tags.
+03/26/2024 18:27:08 - INFO - datasets -   Saving dependency tags  vocab, size: 45, to file data/output-gcn-laptop-final/pkls/cached_lap
+top_dep_tag_vocab.pkl
+03/26/2024 18:27:08 - INFO - datasets -   Creating vocab of dependency tags.
+03/26/2024 18:27:08 - INFO - datasets -   Saving dependency tags  vocab, size: 49, to file data/output-gcn-laptop-final/pkls/cached_lap
+top_pos_tag_vocab.pkl
+Some weights of the model checkpoint at /nas2/archived/qsj/bert-model/bert-base-uncased were not used when initializing BertModel: ['cl
+s.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.bias', 'cls.predictions.decode
+r.weight', 'cls.seq_relationship.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.bias', 'cls.predictions.transfor
+m.dense.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architectur
+e (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initia
+lizing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/nas2/lishengping/miniconda3/lib/python3.9/site-packages/transformers/optimization.py:306: FutureWarning: This implementation of AdamW
+is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation
+_warning=True` to disable this warning
+  warnings.warn(
+03/26/2024 18:27:19 - INFO - trainer -   ***** Running training *****
+03/26/2024 18:27:19 - INFO - trainer -     Num examples = 2313
+03/26/2024 18:27:19 - INFO - trainer -     Num Epochs = 30
+03/26/2024 18:27:19 - INFO - trainer -     Instantaneous batch size per GPU = 16
+03/26/2024 18:27:19 - INFO - trainer -     Gradient Accumulation steps = 2
+03/26/2024 18:27:19 - INFO - trainer -     Total optimization steps = 2160
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 0 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 2 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+sentiment: 1 dataset_name: laptop dtype: test
+Epoch:   0%|                                                      | 0/30 [00:00<?, ?it/s]03/26/2024 18:27:28 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:27:28 - INFO - trainer -     Num examples = 638
+03/26/2024 18:27:28 - INFO - trainer -     Batch size = 32
+03/26/2024 18:27:28 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:27:28 - INFO - trainer -     eval loss: 0.724876755475998
+03/26/2024 18:27:28 - INFO - trainer -     acc = 0.6489028213166145
+03/26/2024 18:27:28 - INFO - trainer -     f1 = 0.49707723124156705
+Epoch:   3%|█▌                                            | 1/30 [00:13<06:22, 13.20s/it]03/26/2024 18:27:37 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:27:37 - INFO - trainer -     Num examples = 638
+03/26/2024 18:27:37 - INFO - trainer -     Batch size = 32
+03/26/2024 18:27:38 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:27:38 - INFO - trainer -     eval loss: 0.714109617471695
+03/26/2024 18:27:38 - INFO - trainer -     acc = 0.7304075235109718
+03/26/2024 18:27:38 - INFO - trainer -     f1 = 0.656292984643731
+Epoch:   7%|███                                           | 2/30 [00:25<06:02, 12.93s/it]03/26/2024 18:27:46 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:27:46 - INFO - trainer -     Num examples = 638
+03/26/2024 18:27:46 - INFO - trainer -     Batch size = 32
+03/26/2024 18:27:47 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:27:47 - INFO - trainer -     eval loss: 0.6310004323720932
+03/26/2024 18:27:47 - INFO - trainer -     acc = 0.768025078369906
+03/26/2024 18:27:47 - INFO - trainer -     f1 = 0.7155914482327757
+03/26/2024 18:27:55 - INFO - trainer -   ***** Running evaluation *****
+03/26/2024 18:27:55 - INFO - trainer -     Num examples = 638
+03/26/2024 18:27:55 - INFO - trainer -     Batch size = 32
+03/26/2024 18:27:56 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:27:56 - INFO - trainer -     eval loss: 0.6085651874542236
+03/26/2024 18:27:56 - INFO - trainer -     acc = 0.7507836990595611
+03/26/2024 18:27:56 - INFO - trainer -     f1 = 0.7016912406265307
+Epoch:  10%|████▌                                         | 3/30 [00:39<05:56, 13.22s/it]03/26/2024 18:28:04 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:28:04 - INFO - trainer -     Num examples = 638
+03/26/2024 18:28:04 - INFO - trainer -     Batch size = 32
+03/26/2024 18:28:05 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:28:05 - INFO - trainer -     eval loss: 0.7620027020573616
+03/26/2024 18:28:05 - INFO - trainer -     acc = 0.7695924764890282
+03/26/2024 18:28:05 - INFO - trainer -     f1 = 0.7143317657499143
+Epoch:  13%|██████▏                                       | 4/30 [00:52<05:40, 13.08s/it]03/26/2024 18:28:13 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:28:13 - INFO - trainer -     Num examples = 638
+03/26/2024 18:28:13 - INFO - trainer -     Batch size = 32
+03/26/2024 18:28:14 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:28:14 - INFO - trainer -     eval loss: 0.6795113444328308
+03/26/2024 18:28:14 - INFO - trainer -     acc = 0.7852664576802508
+03/26/2024 18:28:14 - INFO - trainer -     f1 = 0.7520416711259653
+03/26/2024 18:28:23 - INFO - trainer -   ***** Running evaluation *****
+03/26/2024 18:28:23 - INFO - trainer -     Num examples = 638
+03/26/2024 18:28:23 - INFO - trainer -     Batch size = 32
+03/26/2024 18:28:24 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:28:24 - INFO - trainer -     eval loss: 0.8400231406092644
+03/26/2024 18:28:24 - INFO - trainer -     acc = 0.7852664576802508
+03/26/2024 18:28:24 - INFO - trainer -     f1 = 0.7390735841871795
+Epoch:  17%|███████▋                                      | 5/30 [01:06<05:36, 13.48s/it]03/26/2024 18:28:32 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:28:32 - INFO - trainer -     Num examples = 638
+03/26/2024 18:28:32 - INFO - trainer -     Batch size = 32
+03/26/2024 18:28:33 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:28:33 - INFO - trainer -     eval loss: 0.947694045305252
+03/26/2024 18:28:33 - INFO - trainer -     acc = 0.7554858934169278
+03/26/2024 18:28:33 - INFO - trainer -     f1 = 0.7234440928270042
+Epoch:  20%|█████████▏                                    | 6/30 [01:19<05:21, 13.41s/it]03/26/2024 18:28:42 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:28:42 - INFO - trainer -     Num examples = 638
+03/26/2024 18:28:42 - INFO - trainer -     Batch size = 32
+03/26/2024 18:28:43 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:28:43 - INFO - trainer -     eval loss: 1.172313167154789
+03/26/2024 18:28:43 - INFO - trainer -     acc = 0.7633228840125392
+03/26/2024 18:28:43 - INFO - trainer -     f1 = 0.6995937094503701
+03/26/2024 18:28:52 - INFO - trainer -   ***** Running evaluation *****
+03/26/2024 18:28:52 - INFO - trainer -     Num examples = 638
+03/26/2024 18:28:52 - INFO - trainer -     Batch size = 32
+03/26/2024 18:28:52 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:28:52 - INFO - trainer -     eval loss: 0.8999626219272614
+03/26/2024 18:28:52 - INFO - trainer -     acc = 0.7774294670846394
+03/26/2024 18:28:52 - INFO - trainer -     f1 = 0.7435940684517535
+Epoch:  23%|██████████▋                                   | 7/30 [01:34<05:16, 13.77s/it]03/26/2024 18:29:01 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:29:01 - INFO - trainer -     Num examples = 638
+03/26/2024 18:29:01 - INFO - trainer -     Batch size = 32
+03/26/2024 18:29:02 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:29:02 - INFO - trainer -     eval loss: 0.9606770068407059
+03/26/2024 18:29:02 - INFO - trainer -     acc = 0.7648902821316614
+03/26/2024 18:29:02 - INFO - trainer -     f1 = 0.7195096817977982
+Epoch:  27%|████████████▎                                 | 8/30 [01:48<05:02, 13.76s/it]03/26/2024 18:29:11 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:29:11 - INFO - trainer -     Num examples = 638
+03/26/2024 18:29:11 - INFO - trainer -     Batch size = 32
+03/26/2024 18:29:12 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:29:12 - INFO - trainer -     eval loss: 1.5362550988793373
+03/26/2024 18:29:12 - INFO - trainer -     acc = 0.7398119122257053
+03/26/2024 18:29:12 - INFO - trainer -     f1 = 0.6834064012511599
+Epoch:  30%|█████████████▊                                | 9/30 [02:01<04:46, 13.65s/it]03/26/2024 18:29:21 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:29:21 - INFO - trainer -     Num examples = 638
+03/26/2024 18:29:21 - INFO - trainer -     Batch size = 32
+03/26/2024 18:29:22 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:29:22 - INFO - trainer -     eval loss: 1.0871715620160103
+03/26/2024 18:29:22 - INFO - trainer -     acc = 0.7554858934169278
+03/26/2024 18:29:22 - INFO - trainer -     f1 = 0.7000044358808717
+03/26/2024 18:29:31 - INFO - trainer -   ***** Running evaluation *****
+03/26/2024 18:29:31 - INFO - trainer -     Num examples = 638
+03/26/2024 18:29:31 - INFO - trainer -     Batch size = 32
+03/26/2024 18:29:32 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:29:32 - INFO - trainer -     eval loss: 1.3640651792287826
+03/26/2024 18:29:32 - INFO - trainer -     acc = 0.7366771159874608
+03/26/2024 18:29:32 - INFO - trainer -     f1 = 0.6922203089075887
+Epoch:  33%|███████████████                              | 10/30 [02:16<04:39, 13.98s/it]03/26/2024 18:29:41 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:29:41 - INFO - trainer -     Num examples = 638
+03/26/2024 18:29:41 - INFO - trainer -     Batch size = 32
+03/26/2024 18:29:41 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:29:41 - INFO - trainer -     eval loss: 1.483372265100479
+03/26/2024 18:29:41 - INFO - trainer -     acc = 0.7617554858934169
+03/26/2024 18:29:41 - INFO - trainer -     f1 = 0.6934397921351255
+Epoch:  37%|████████████████▌                            | 11/30 [02:30<04:24, 13.94s/it]03/26/2024 18:29:50 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:29:50 - INFO - trainer -     Num examples = 638
+03/26/2024 18:29:50 - INFO - trainer -     Batch size = 32
+03/26/2024 18:29:51 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:29:51 - INFO - trainer -     eval loss: 1.4209168180823326
+03/26/2024 18:29:51 - INFO - trainer -     acc = 0.7789968652037618
+03/26/2024 18:29:51 - INFO - trainer -     f1 = 0.7308527729580362
+03/26/2024 18:30:00 - INFO - trainer -   ***** Running evaluation *****
+03/26/2024 18:30:00 - INFO - trainer -     Num examples = 638
+03/26/2024 18:30:00 - INFO - trainer -     Batch size = 32
+03/26/2024 18:30:01 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:30:01 - INFO - trainer -     eval loss: 1.4990189693868161
+03/26/2024 18:30:01 - INFO - trainer -     acc = 0.768025078369906
+03/26/2024 18:30:01 - INFO - trainer -     f1 = 0.7149112619951907
+Epoch:  40%|██████████████████                           | 12/30 [02:44<04:15, 14.19s/it]03/26/2024 18:30:10 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:30:10 - INFO - trainer -     Num examples = 638
+03/26/2024 18:30:10 - INFO - trainer -     Batch size = 32
+03/26/2024 18:30:11 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:30:11 - INFO - trainer -     eval loss: 1.5693586707115172
+03/26/2024 18:30:11 - INFO - trainer -     acc = 0.7492163009404389
+03/26/2024 18:30:11 - INFO - trainer -     f1 = 0.6907606983046576
+Epoch:  43%|███████████████████▌                         | 13/30 [02:58<03:59, 14.07s/it]03/26/2024 18:30:20 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:30:20 - INFO - trainer -     Num examples = 638
+03/26/2024 18:30:20 - INFO - trainer -     Batch size = 32
+03/26/2024 18:30:21 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:30:21 - INFO - trainer -     eval loss: 1.34908135086298
+03/26/2024 18:30:21 - INFO - trainer -     acc = 0.768025078369906
+03/26/2024 18:30:21 - INFO - trainer -     f1 = 0.7252234126013878
+03/26/2024 18:30:30 - INFO - trainer -   ***** Running evaluation *****
+03/26/2024 18:30:30 - INFO - trainer -     Num examples = 638
+03/26/2024 18:30:30 - INFO - trainer -     Batch size = 32
+03/26/2024 18:30:31 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:30:31 - INFO - trainer -     eval loss: 1.9083699077367782
+03/26/2024 18:30:31 - INFO - trainer -     acc = 0.7460815047021944
+03/26/2024 18:30:31 - INFO - trainer -     f1 = 0.6778757638515956
+Epoch:  47%|█████████████████████                        | 14/30 [03:13<03:47, 14.22s/it]03/26/2024 18:30:39 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:30:39 - INFO - trainer -     Num examples = 638
+03/26/2024 18:30:39 - INFO - trainer -     Batch size = 32
+03/26/2024 18:30:40 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:30:40 - INFO - trainer -     eval loss: 1.6685912653803825
+03/26/2024 18:30:40 - INFO - trainer -     acc = 0.7633228840125392
+03/26/2024 18:30:40 - INFO - trainer -     f1 = 0.7186571235701537
+Epoch:  50%|██████████████████████▌                      | 15/30 [03:26<03:30, 14.05s/it]03/26/2024 18:30:49 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:30:49 - INFO - trainer -     Num examples = 638
+03/26/2024 18:30:49 - INFO - trainer -     Batch size = 32
+03/26/2024 18:30:50 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:30:50 - INFO - trainer -     eval loss: 1.6216456577181817
+03/26/2024 18:30:50 - INFO - trainer -     acc = 0.7523510971786834
+03/26/2024 18:30:50 - INFO - trainer -     f1 = 0.7040097429399065
+03/26/2024 18:30:59 - INFO - trainer -   ***** Running evaluation *****
+03/26/2024 18:30:59 - INFO - trainer -     Num examples = 638
+03/26/2024 18:30:59 - INFO - trainer -     Batch size = 32
+03/26/2024 18:31:00 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:31:00 - INFO - trainer -     eval loss: 1.5920292094349862
+03/26/2024 18:31:00 - INFO - trainer -     acc = 0.7492163009404389
+03/26/2024 18:31:00 - INFO - trainer -     f1 = 0.6949623324707267
+Epoch:  53%|████████████████████████                     | 16/30 [03:41<03:19, 14.22s/it]03/26/2024 18:31:09 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:31:09 - INFO - trainer -     Num examples = 638
+03/26/2024 18:31:09 - INFO - trainer -     Batch size = 32
+03/26/2024 18:31:09 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:31:09 - INFO - trainer -     eval loss: 1.770776590704918
+03/26/2024 18:31:09 - INFO - trainer -     acc = 0.7492163009404389
+03/26/2024 18:31:09 - INFO - trainer -     f1 = 0.7049488749748266
+Epoch:  57%|█████████████████████████▌                   | 17/30 [03:54<03:02, 14.01s/it]03/26/2024 18:31:18 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:31:18 - INFO - trainer -     Num examples = 638
+03/26/2024 18:31:18 - INFO - trainer -     Batch size = 32
+03/26/2024 18:31:19 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:31:19 - INFO - trainer -     eval loss: 1.507948276400566
+03/26/2024 18:31:19 - INFO - trainer -     acc = 0.7507836990595611
+03/26/2024 18:31:19 - INFO - trainer -     f1 = 0.7073701473539121
+Epoch:  60%|███████████████████████████                  | 18/30 [04:08<02:46, 13.89s/it]03/26/2024 18:31:28 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:31:28 - INFO - trainer -     Num examples = 638
+03/26/2024 18:31:28 - INFO - trainer -     Batch size = 32
+03/26/2024 18:31:29 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:31:29 - INFO - trainer -     eval loss: 1.6983539268374443
+03/26/2024 18:31:29 - INFO - trainer -     acc = 0.7586206896551724
+03/26/2024 18:31:29 - INFO - trainer -     f1 = 0.7048959208239358
+03/26/2024 18:31:38 - INFO - trainer -   ***** Running evaluation *****
+03/26/2024 18:31:38 - INFO - trainer -     Num examples = 638
+03/26/2024 18:31:38 - INFO - trainer -     Batch size = 32
+03/26/2024 18:31:39 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:31:39 - INFO - trainer -     eval loss: 1.716803750395775
+03/26/2024 18:31:39 - INFO - trainer -     acc = 0.7695924764890282
+03/26/2024 18:31:39 - INFO - trainer -     f1 = 0.727863586225654
+Epoch:  63%|████████████████████████████▌                | 19/30 [04:22<02:34, 14.02s/it]03/26/2024 18:31:47 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:31:47 - INFO - trainer -     Num examples = 638
+03/26/2024 18:31:47 - INFO - trainer -     Batch size = 32
+03/26/2024 18:31:48 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:31:48 - INFO - trainer -     eval loss: 1.4845308274030686
+03/26/2024 18:31:48 - INFO - trainer -     acc = 0.7789968652037618
+03/26/2024 18:31:48 - INFO - trainer -     f1 = 0.7381736312503696
+Epoch:  67%|██████████████████████████████               | 20/30 [04:36<02:18, 13.81s/it]03/26/2024 18:31:57 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:31:57 - INFO - trainer -     Num examples = 638
+03/26/2024 18:31:57 - INFO - trainer -     Batch size = 32
+03/26/2024 18:31:58 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:31:58 - INFO - trainer -     eval loss: 1.655329628288746
+03/26/2024 18:31:58 - INFO - trainer -     acc = 0.768025078369906
+03/26/2024 18:31:58 - INFO - trainer -     f1 = 0.7175928455475907
+03/26/2024 18:32:06 - INFO - trainer -   ***** Running evaluation *****
+03/26/2024 18:32:06 - INFO - trainer -     Num examples = 638
+03/26/2024 18:32:06 - INFO - trainer -     Batch size = 32
+03/26/2024 18:32:07 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:32:07 - INFO - trainer -     eval loss: 1.6766326889395713
+03/26/2024 18:32:07 - INFO - trainer -     acc = 0.774294670846395
+03/26/2024 18:32:07 - INFO - trainer -     f1 = 0.7324458053642876
+Epoch:  70%|███████████████████████████████▍             | 21/30 [04:50<02:05, 13.95s/it]03/26/2024 18:32:16 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:32:16 - INFO - trainer -     Num examples = 638
+03/26/2024 18:32:16 - INFO - trainer -     Batch size = 32
+03/26/2024 18:32:17 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:32:17 - INFO - trainer -     eval loss: 1.9125534564256668
+03/26/2024 18:32:17 - INFO - trainer -     acc = 0.7523510971786834
+03/26/2024 18:32:17 - INFO - trainer -     f1 = 0.6904659682603844
+Epoch:  73%|█████████████████████████████████            | 22/30 [05:03<01:49, 13.74s/it]03/26/2024 18:32:25 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:32:25 - INFO - trainer -     Num examples = 638
+03/26/2024 18:32:25 - INFO - trainer -     Batch size = 32
+03/26/2024 18:32:26 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:32:26 - INFO - trainer -     eval loss: 1.9329008527100087
+03/26/2024 18:32:26 - INFO - trainer -     acc = 0.7507836990595611
+03/26/2024 18:32:26 - INFO - trainer -     f1 = 0.6884673907769439
+03/26/2024 18:32:35 - INFO - trainer -   ***** Running evaluation *****
+03/26/2024 18:32:35 - INFO - trainer -     Num examples = 638
+03/26/2024 18:32:35 - INFO - trainer -     Batch size = 32
+03/26/2024 18:32:36 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:32:36 - INFO - trainer -     eval loss: 1.7489023089408875
+03/26/2024 18:32:36 - INFO - trainer -     acc = 0.7633228840125392
+03/26/2024 18:32:36 - INFO - trainer -     f1 = 0.7116330855581317
+Epoch:  77%|██████████████████████████████████▌          | 23/30 [05:17<01:37, 13.87s/it]03/26/2024 18:32:44 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:32:44 - INFO - trainer -     Num examples = 638
+03/26/2024 18:32:44 - INFO - trainer -     Batch size = 32
+03/26/2024 18:32:45 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:32:45 - INFO - trainer -     eval loss: 1.9002537965774535
+03/26/2024 18:32:45 - INFO - trainer -     acc = 0.7586206896551724
+03/26/2024 18:32:45 - INFO - trainer -     f1 = 0.7046296164954969
+Epoch:  80%|████████████████████████████████████         | 24/30 [05:31<01:22, 13.67s/it]03/26/2024 18:32:54 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:32:54 - INFO - trainer -     Num examples = 638
+03/26/2024 18:32:54 - INFO - trainer -     Batch size = 32
+03/26/2024 18:32:55 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:32:55 - INFO - trainer -     eval loss: 2.0904272139072417
+03/26/2024 18:32:55 - INFO - trainer -     acc = 0.7398119122257053
+03/26/2024 18:32:55 - INFO - trainer -     f1 = 0.6653923655857467
+03/26/2024 18:33:03 - INFO - trainer -   ***** Running evaluation *****
+03/26/2024 18:33:03 - INFO - trainer -     Num examples = 638
+03/26/2024 18:33:03 - INFO - trainer -     Batch size = 32
+03/26/2024 18:33:04 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:33:04 - INFO - trainer -     eval loss: 1.7157804034650326
+03/26/2024 18:33:04 - INFO - trainer -     acc = 0.7789968652037618
+03/26/2024 18:33:04 - INFO - trainer -     f1 = 0.7356893599418163
+Epoch:  83%|█████████████████████████████████████▌       | 25/30 [05:45<01:09, 13.85s/it]03/26/2024 18:33:13 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:33:13 - INFO - trainer -     Num examples = 638
+03/26/2024 18:33:13 - INFO - trainer -     Batch size = 32
+03/26/2024 18:33:14 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:33:14 - INFO - trainer -     eval loss: 1.8328070767223834
+03/26/2024 18:33:14 - INFO - trainer -     acc = 0.7586206896551724
+03/26/2024 18:33:14 - INFO - trainer -     f1 = 0.6995810492200863
+Epoch:  87%|███████████████████████████████████████      | 26/30 [05:58<00:54, 13.72s/it]03/26/2024 18:33:23 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:33:23 - INFO - trainer -     Num examples = 638
+03/26/2024 18:33:23 - INFO - trainer -     Batch size = 32
+03/26/2024 18:33:23 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:33:23 - INFO - trainer -     eval loss: 1.9437226340174676
+03/26/2024 18:33:23 - INFO - trainer -     acc = 0.7633228840125392
+03/26/2024 18:33:23 - INFO - trainer -     f1 = 0.7085238153027115
+Epoch:  90%|████████████████████████████████████████▌    | 27/30 [06:12<00:40, 13.61s/it]03/26/2024 18:33:32 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:33:32 - INFO - trainer -     Num examples = 638
+03/26/2024 18:33:32 - INFO - trainer -     Batch size = 32
+03/26/2024 18:33:33 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:33:33 - INFO - trainer -     eval loss: 1.838363593071699
+03/26/2024 18:33:33 - INFO - trainer -     acc = 0.7476489028213166
+03/26/2024 18:33:33 - INFO - trainer -     f1 = 0.6937373777965838
+03/26/2024 18:33:42 - INFO - trainer -   ***** Running evaluation *****
+03/26/2024 18:33:42 - INFO - trainer -     Num examples = 638
+03/26/2024 18:33:42 - INFO - trainer -     Batch size = 32
+03/26/2024 18:33:42 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:33:42 - INFO - trainer -     eval loss: 2.2121576756238936
+03/26/2024 18:33:42 - INFO - trainer -     acc = 0.7304075235109718
+03/26/2024 18:33:42 - INFO - trainer -     f1 = 0.6602890140169789
+Epoch:  93%|██████████████████████████████████████████   | 28/30 [06:26<00:27, 13.77s/it]03/26/2024 18:33:51 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:33:51 - INFO - trainer -     Num examples = 638
+03/26/2024 18:33:51 - INFO - trainer -     Batch size = 32
+03/26/2024 18:33:52 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:33:52 - INFO - trainer -     eval loss: 1.704139991104603
+03/26/2024 18:33:52 - INFO - trainer -     acc = 0.7931034482758621
+03/26/2024 18:33:52 - INFO - trainer -     f1 = 0.7541482089834055
+Epoch:  97%|███████████████████████████████████████████▌ | 29/30 [06:39<00:13, 13.65s/it]03/26/2024 18:34:01 - INFO - trainer -   *****
+ Running evaluation *****
+03/26/2024 18:34:01 - INFO - trainer -     Num examples = 638
+03/26/2024 18:34:01 - INFO - trainer -     Batch size = 32
+03/26/2024 18:34:02 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:34:02 - INFO - trainer -     eval loss: 2.0458702072501183
+03/26/2024 18:34:02 - INFO - trainer -     acc = 0.7601880877742947
+03/26/2024 18:34:02 - INFO - trainer -     f1 = 0.6988708971868279
+03/26/2024 18:34:10 - INFO - trainer -   ***** Running evaluation *****
+03/26/2024 18:34:10 - INFO - trainer -     Num examples = 638
+03/26/2024 18:34:10 - INFO - trainer -     Batch size = 32
+03/26/2024 18:34:11 - INFO - trainer -   ***** Eval results *****
+03/26/2024 18:34:11 - INFO - trainer -     eval loss: 1.7526947528123855
+03/26/2024 18:34:11 - INFO - trainer -     acc = 0.7727272727272727
+03/26/2024 18:34:11 - INFO - trainer -     f1 = 0.7315867066141196
+Epoch: 100%|█████████████████████████████████████████████| 30/30 [06:53<00:00, 13.80s/it]
+03/26/2024 18:34:13 - INFO - __main__ -     acc = 0.7931034482758621
+03/26/2024 18:34:13 - INFO - __main__ -     f1 = 0.7541482089834055
+run.sh: line 15: 7: command not found
+(base) lishengping@apple:/nas2/lishengping/caiyun_projects/rgat_absa$ tmux capture-pane -S -32768
+

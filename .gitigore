@@ -14,3 +14,4 @@ wandb
 .vscode
 command_log.txt
 # *.txt
+.vscode/

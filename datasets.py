@@ -307,6 +307,8 @@ def get_rolled_and_unrolled_data(input_data, args, dtype):
     logger.info('*** Start processing data(unrolling and reshaping) ***')
     tree_samples = []
     # for seeking 'but' examples
+    sentiment_counter = defaultdict(int)
+    
     for e in input_data:
         e['tokens'] = [x.lower() for x in e['tokens']]
         aspects = []
@@ -363,15 +365,31 @@ def get_rolled_and_unrolled_data(input_data, args, dtype):
 
             total_counter[e['aspect_sentiment'][i][1]] += 1
 
+            sentiment_counter[sentiment] += 1
+
             # Unrolling
             data = {'sentence': e['tokens'], 'tags': e['tags'], 'pos_class': pos_class, 'aspect': aspect, 'sentiment': sentiment,
                     'predicted_dependencies': e['predicted_dependencies'], 'predicted_heads': e['predicted_heads'],
                  'from': frm, 'to': to, 'dep_tag': dep_tag, 'dep_idx': dep_idx, 'dep_dir':dep_dir,'dependencies': e['dependencies']}
             all_unrolled.append(data)
-            print(f'sentiment: {sentiment} dataset_name: {args.dataset_name} dtype: {dtype}')
-            if sentiment in [0, 2] and args.dataset_name == 'twitter' and dtype == 'train':
-                print(f'add {args.dataset_name}, sentiment: {sentiment}========')
+            # print(f'sentiment: {sentiment} dataset_name: {args.dataset_name} dtype: {dtype}')
+
+            if sentiment in [0] and args.dataset_name == 'twitter' and dtype == 'train' and args.balanced_data:
+                # print(f'add {args.dataset_name}, sentiment: {sentiment}========')
                 all_unrolled.append(data)
+                sentiment_counter[sentiment] += 1
+
+
+            if sentiment in [2] and args.dataset_name == 'laptop' and dtype == 'train' and args.balanced_data:
+                # print(f'add {args.dataset_name}, sentiment: {sentiment}========')
+                all_unrolled.append(data)
+                sentiment_counter[sentiment] += 1
+
+
+            if sentiment in [0] and args.dataset_name == 'rest' and dtype == 'train' and args.balanced_data:
+                # print(f'add {args.dataset_name}, sentiment: {sentiment}========')
+                all_unrolled.append(data)
+                sentiment_counter[sentiment] += 1
 
         # All sentences with multiple aspects and sentiments rolled.
         all_rolled.append(
@@ -394,6 +412,7 @@ def get_rolled_and_unrolled_data(input_data, args, dtype):
 
     logger.info('Total sentiment counter: %s', total_counter)
     logger.info('Multi-Aspect-Multi-Sentiment counter: %s', mixed_counter)
+    print(f'sentiment_counter: {sentiment_counter}')
 
     return all_rolled, all_unrolled, mixed_rolled, mixed_unrolled
 

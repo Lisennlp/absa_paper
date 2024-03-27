@@ -5,7 +5,7 @@ import random
 import numpy as np
 import torch
 import torch.nn.functional as F
-from sklearn.metrics import f1_score, matthews_corrcoef
+from sklearn.metrics import f1_score, matthews_corrcoef, classification_report
 from tensorboardX import SummaryWriter
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
 from tqdm import tqdm, trange
@@ -298,6 +298,8 @@ def simple_accuracy(preds, labels):
 def acc_and_f1(preds, labels):
     acc = simple_accuracy(preds, labels)
     f1 = f1_score(y_true=labels, y_pred=preds, average='macro')
+    target_names = ['negativate', 'positivate', 'neutral']
+    print(classification_report(labels, preds, target_names=target_names, digits=4))
     return {
         "acc": acc,
         "f1": f1

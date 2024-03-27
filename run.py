@@ -56,6 +56,8 @@ def parse_args():
 
     parser.add_argument('--highway', action='store_true',
                         help='Use highway embed.')
+    parser.add_argument('--balanced_data', action='store_true',
+                        help='add some replica data to balance data ratio.')
 
     parser.add_argument('--num_layers', type=int, default=2,
                         help='Number of layers of bilstm or highway or elmo.')

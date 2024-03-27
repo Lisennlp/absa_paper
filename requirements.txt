@@ -3,3 +3,8 @@ lxml==5.10
 simplejson==3.19.2
 transformers==4.20.1
 torch==1.12.0+cu113
+pytest==6.2.5
+datasets==2.18.0
+tokenizers==0.11.6
+lm-eval==0.3.0
+tqdm==4.60.0

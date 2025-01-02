@@ -91,7 +91,7 @@ class Aspect_Text_GAT_ours(nn.Module):
         aspect_feature = aspect_feature.mean(dim = 1) # (N, D)
 
         ############################################################################################
-        # do gat thing
+        # do gat thing, NNP, NP之类的
         dep_feature = self.dep_embed(dep_tags)
         if self.args.highway:
             dep_feature = self.highway_dep(dep_feature)

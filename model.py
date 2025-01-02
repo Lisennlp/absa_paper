@@ -12,6 +12,8 @@ from model_gcn import GAT, GCN, Rel_GAT
 from model_utils import LinearAttention, DotprodAttention, RelationAttention, Highway, mask_logits
 from tree import *
 
+import nltk
+nltk.download('punkt_tab')
 
 class Aspect_Text_GAT_ours(nn.Module):
     """

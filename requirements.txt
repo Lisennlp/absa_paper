@@ -1,4 +1,4 @@
-allenlp==2.10.1
+scikit-learn
 lxml==5.10
 simplejson==3.19.2
 transformers==4.20.1
@@ -8,3 +8,5 @@ datasets==2.18.0
 tokenizers==0.11.6
 lm-eval==0.3.0
 tqdm==4.60.0
+tensorboard==1.15
+# T1.12C11.7 env

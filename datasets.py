@@ -13,7 +13,9 @@ from copy import copy, deepcopy
 
 import nltk
 import numpy as np
-import simplejson as json
+# import simplejson as json
+import json
+
 import torch
 from allennlp.modules.elmo import batch_to_ids
 from lxml import etree

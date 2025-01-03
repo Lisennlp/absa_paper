@@ -11,6 +11,7 @@ from allennlp.predictors.predictor import Predictor
 from lxml import etree
 from nltk.tokenize import TreebankWordTokenizer
 from tqdm import tqdm
+import random
 
 MODELS_DIR = 'models'
 model_path = os.path.join(
@@ -153,5 +154,48 @@ def main():
     syntaxInfo2json(train_sentences, train_sentences_with_dep, os.path.join(args.data_path, 'train.txt'))
     syntaxInfo2json(test_sentences, test_sentences_with_dep, os.path.join(args.data_path, 'test.txt'))
 
+
+def convert_txt2raw(path):
+    random.seed(42)
+    lines = open(path, 'r').readlines()
+    random.shuffle(lines)
+
+    test_ratio = 0.1
+    test_lines = lines[ :int(len(lines) * test_ratio)]
+    train_lines = lines[lint(len(lines) * test_ratio): ]
+
+    train_writer = open('data/coffe/train.raw', 'w')
+    test_writer = open('data/coffe/test.raw', 'w')
+
+    label_map = {'good': 1, 'neutral': 0, 'bad': -1}
+    for i, line in enumerate(test_lines):
+        if not line.strip(): continue
+        r = line.strip().split()
+        label = label_map[r[-1]]
+        index = random.randint(0, len(r) - 2)
+        r.insert(index, '$T$')
+        content = ' '.join(r[:-1])
+        aspect = 'food'
+        new_line = f'{content}\n{aspect}\n{label}\n'
+        test_writer.write(new_line)
+        
+    test_writer.close()
+
+    for i, line in enumerate(train_lines):
+        if not line.strip(): continue
+        r = line.strip().split()
+        label = label_map[r[-1]]
+        index = random.randint(0, len(r) - 2)
+        r.insert(index, '$T$')
+        content = ' '.join(r[:-1])
+        aspect = 'food' # self define aspect word
+        new_line = f'{content}\n{aspect}\n{label}\n'
+        train_writer.write(new_line)
+
+    train_writer.close()
+
 if __name__ == "__main__":
+    
+    path = 'data/coffe/data.txt'
+    convert_txt2raw(path)
     main()

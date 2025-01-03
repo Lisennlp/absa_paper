@@ -81,10 +81,11 @@ def get_dataset(dataset_name):
     twitter_train = 'data/twitter/train_biaffine.json'
     twitter_test = 'data/twitter/test_biaffine.json'
 
-    ds_train = {'rest': rest_train,
-                'laptop': laptop_train, 'twitter': twitter_train}
-    ds_test = {'rest': rest_test,
-               'laptop': laptop_test, 'twitter': twitter_test}
+    coffe_train = 'data/coffe/train_biaffine.json'
+    coffe_test = 'data/coffe/test_biaffine.json'
+
+    ds_train = {'rest': rest_train, 'laptop': laptop_train, 'twitter': twitter_train, 'coffe': coffe_train}
+    ds_test = {'rest': rest_test, 'laptop': laptop_test, 'twitter': twitter_test, 'coffe': coffe_test}
 
     train = list(read_sentence_depparsed(ds_train[dataset_name]))
     logger.info('# Read %s Train set: %d', dataset_name, len(train))

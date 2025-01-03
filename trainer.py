@@ -6,13 +6,15 @@ import numpy as np
 import torch
 import torch.nn.functional as F
 from sklearn.metrics import f1_score, matthews_corrcoef, classification_report
-from tensorboardX import SummaryWriter
+from tensorboardX import writer, SummaryWriter
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
 from tqdm import tqdm, trange
 
 from datasets import my_collate, my_collate_elmo, my_collate_pure_bert, my_collate_bert
 from transformers import AdamW
 from transformers import BertTokenizer
+from datetime import datetime
+
 
 logger = logging.getLogger(__name__)
 
@@ -94,9 +96,22 @@ def get_bert_optimizer(args, model):
     return optimizer
 
 
+from datetime import datetime
 def train(args, train_dataset, model, test_dataset):
     '''Train the model'''
-    tb_writer = SummaryWriter()
+    # tensorboard_dir = os.path.join('tensorboard', args.dataset_name)
+    # os.makedirs(tensorboard_dir, exist_ok=True)
+
+    # date_time_str = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
+    # tensorboard_dir = os.path.join(tensorboard_dir, date_time_str)
+    # os.makedirs(tensorboard_dir, exist_ok=True)
+    
+    tb_writer = writer.SummaryWriter(args.tensorboard_dir)
+    print(f'tensorboard_dir: {args.tensorboard_dir}')
+    # 遍历参数
+    for arg_name, arg_value in vars(args).items():
+        print(f"Tensorboard: {arg_name}: {arg_value}")
+        tb_writer.add_text(arg_name, str(arg_value))
 
     args.train_batch_size = args.per_gpu_train_batch_size
     train_sampler = RandomSampler(train_dataset)
@@ -140,22 +155,32 @@ def train(args, train_dataset, model, test_dataset):
     for _ in train_iterator:
         # epoch_iterator = tqdm(train_dataloader, desc='Iteration')
         for step, batch in enumerate(train_dataloader):
+            # if global_step != 21:
+            #     __import__('ipdb').set_trace()
+            #     # global_step += 1
+                # continue
             model.train()
             batch = tuple(t.to(args.device) for t in batch)
 
             inputs, labels = get_input_from_batch(args, batch)
-            logit = model(**inputs)
-            loss = F.cross_entropy(logit, labels)
+
+            logit = model(**inputs, step=global_step)
+            loss = F.cross_entropy(logit, labels)#不需要在模型的 forward 方法中应用 softmax，因为 F.cross_entropy 函数将在内部应用 softmax。
 
             if args.gradient_accumulation_steps > 1:
                 loss = loss / args.gradient_accumulation_steps
-
+            # try:
             loss.backward()
+            # except:
+            #     __import__('ipdb').set_trace()
             torch.nn.utils.clip_grad_norm_(
                 model.parameters(), args.max_grad_norm)
 
             tr_loss += loss.item()
             if (step + 1) % args.gradient_accumulation_steps == 0:
+                tb_writer.add_scalar('train_loss', args.gradient_accumulation_steps * loss.item(), global_step)
+                print(f'global_step: {global_step} train loss: {args.gradient_accumulation_steps * loss.item()}', flush=True)
+
                 # scheduler.step()  # Update learning rate schedule
                 optimizer.step()
                 model.zero_grad()
@@ -164,14 +189,14 @@ def train(args, train_dataset, model, test_dataset):
                 # Log metrics
                 if args.logging_steps > 0 and global_step % args.logging_steps == 0:
                     results, eval_loss = evaluate(args, test_dataset, model)
-                    all_eval_results.append(results)
-                    for key, value in results.items():
-                        tb_writer.add_scalar(
-                            'eval_{}'.format(key), value, global_step)
                     tb_writer.add_scalar('eval_loss', eval_loss, global_step)
-                    # tb_writer.add_scalar('lr', scheduler.get_lr()[0], global_step)
-                    tb_writer.add_scalar(
-                        'train_loss', (tr_loss - logging_loss) / args.logging_steps, global_step)
+                    print(f'global_step: {global_step} eval loss: {eval_loss}', flush=True)
+
+                    for key, value in results.items():
+                        tb_writer.add_scalar('eval_{}'.format(key), value, global_step)
+
+                    all_eval_results.append(results)
+                    
                     logging_loss = tr_loss
 
                 # Save model checkpoint

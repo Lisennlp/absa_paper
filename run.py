@@ -14,7 +14,13 @@ from torch.utils.data import DataLoader
 
 from datasets import load_datasets_and_vocabs
 from model import (Aspect_Text_GAT_ours,
-                    Pure_Bert, Aspect_Bert_GAT, Aspect_Text_GAT_only)
+                    Pure_Bert, 
+                    Aspect_Bert_GAT, 
+                    Aspect_Text_GAT_only,
+                    Aspect_Xlnet_Cnn_Lstm)
+
+from transformers import XLNetModel, XLNetTokenizer, XLNetConfig
+
 from trainer import train
 
 logger = logging.getLogger(__name__)
@@ -31,7 +37,9 @@ def parse_args():
 
     # Required parameters
     parser.add_argument('--dataset_name', type=str, default='rest',
-                        choices=['rest', 'laptop', 'twitter'],
+                        choices=['rest', 'laptop', 'twitter', 'coffe'],
+                        help='Choose absa dataset.')
+    parser.add_argument('--tensorboard_dir', type=str, default='tensorboard',
                         help='Choose absa dataset.')
     parser.add_argument('--output_dir', type=str, default='data/output-gcn',
                         help='Directory to store intermedia data, such as vocab, embeddings, tags_vocab.')
@@ -92,13 +100,13 @@ def parse_args():
     parser.add_argument('--gat_attention_type', type = str, choices=['linear','dotprod','gcn'], default='dotprod',
                         help='The attention used for gat')
 
-    parser.add_argument('--embedding_type', type=str,default='glove', choices=['glove','bert'])
+    parser.add_argument('--embedding_type', type=str,default='glove', choices=['glove','bert', 'xlnet'])
     parser.add_argument('--embedding_dim', type=int, default=300,
                         help='Dimension of glove embeddings')
     parser.add_argument('--dep_relation_embed_dim', type=int, default=300,
                         help='Dimension for dependency relation embeddings.')
 
-    parser.add_argument('--hidden_size', type=int, default=300,
+    parser.add_argument('--hidden_size', type=int, default=200,
                         help='Hidden size of bilstm, in early stage.')
     parser.add_argument('--final_hidden_size', type=int, default=300,
                         help='Hidden size of bilstm, in early stage.')
@@ -126,8 +134,12 @@ def parse_args():
                         help="Total number of training epochs to perform.")
     parser.add_argument("--max_steps", default=-1, type=int,
                         help="If > 0: set total number of training steps(that update the weights) to perform. Override num_train_epochs.")
-    parser.add_argument('--logging_steps', type=int, default=50,
+    parser.add_argument('--logging_steps', type=int, default=100,
                         help="Log every X updates steps.")
+    parser.add_argument('--xlnet_cnn_lstm', action='store_true',
+                        help='GAT')
+    # fix mudules
+    parser.add_argument('--fix_module', type=str, default='', choices=['cnn','lstm','xlnet'])
     
     return parser.parse_args()
 
@@ -154,6 +166,7 @@ def main():
     # Setup CUDA, GPU training
     os.environ["CUDA_VISIBLE_DEVICES"] = args.cuda_id
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    # device = 'cpu'
     args.device = device
     logger.info('Device is %s', args.device)
 
@@ -163,8 +176,12 @@ def main():
     # Bert, load pretrained model and tokenizer, check if neccesary to put bert here
     if args.embedding_type == 'bert':
         tokenizer = BertTokenizer.from_pretrained(args.bert_model_dir)
-        args.tokenizer = tokenizer
-
+    elif args.embedding_type == 'xlnet':
+        tokenizer = XLNetTokenizer.from_pretrained(args.bert_model_dir)
+    else:
+        tokenizer = None
+    
+    args.tokenizer = tokenizer
     # Load datasets and vocabs
     train_dataset, test_dataset, word_vocab, dep_tag_vocab, pos_tag_vocab= load_datasets_and_vocabs(args)
 
@@ -173,13 +190,19 @@ def main():
     if args.pure_bert:
         model = Pure_Bert(args)
     elif args.gat_bert:
-        model = Aspect_Bert_GAT(args, dep_tag_vocab['len'], pos_tag_vocab['len'])  # R-GAT + Bert
+        if args.xlnet_cnn_lstm:
+            model = Aspect_Xlnet_Cnn_Lstm(args, dep_tag_vocab['len'], pos_tag_vocab['len'])  # R-GAT + Bert
+        else:
+            model = Aspect_Bert_GAT(args, dep_tag_vocab['len'], pos_tag_vocab['len'])  # R-GAT + Bert
+
     elif args.gat_our:
         model = Aspect_Text_GAT_ours(args, dep_tag_vocab['len'], pos_tag_vocab['len']) # R-GAT with reshaped tree
     else:
         model = Aspect_Text_GAT_only(args, dep_tag_vocab['len'], pos_tag_vocab['len'])  # original GAT with reshaped tree
 
     model.to(args.device)
+    for k, v in model.named_parameters():
+        print(k, v.shape)
     # Train
     _, _,  all_eval_results = train(args, train_dataset, model, test_dataset)
 
